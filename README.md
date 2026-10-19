@@ -10,7 +10,7 @@
 
 **I build production CounterStrikeSharp plugins for Counter-Strike 2 dedicated servers.**
 
-[Portfolio](./index.html) · [Resume](./RESUME.md)
+[Portfolio](./index.html) · [Resume](./RESUME.md) · [Showcase](./showcase/)
 
 </div>
 
@@ -24,7 +24,17 @@ Based in Iran · open to server work, collabs, and freelance
 
 ---
 
-### Featured projects
+### Open-source showcase
+
+| Project | Stack | What it is |
+|--------|--------|------------|
+| [**cs2-match-recorder**](./showcase/cs2-match-recorder/) | C# | Round-timeline JSON recorder for CS2 dedicated servers |
+| [**yguard-rcon**](./showcase/yguard-rcon/) | TypeScript | Zero-dep Source/CS2 RCON client (auth + multi-packet) |
+| [**server-pulse**](./showcase/server-pulse/) | HTML/CSS/JS | Live server status page — map, score, roster, ping |
+
+---
+
+### YGuard production plugins
 
 | Project | What it does |
 |--------|----------------|
