@@ -18,10 +18,20 @@
 
 ### About
 
-Backend-focused web developer — REST APIs, auth, realtime, and Vue UIs.  
+Backend-focused web developer — REST APIs, auth, realtime, and Vue product UIs.  
 Also ship CS2 / YGuard tooling when a product needs game-node work.
 
 Based in Iran · open to freelance & product work
+
+---
+
+### Flagships
+
+| Project | Stack | Demo |
+|--------|--------|------|
+| [**forge-desk**](https://github.com/kianPk/forge-desk) | Vue 3 · Express · JWT · Socket.IO | [Workspace demo](https://kianpk.github.io/forge-desk/) — Linear-style board, drag & drop, presence |
+| [**velocity-arena**](https://github.com/kianPk/velocity-arena) | Vue · Canvas · Socket.IO | [Play](https://kianpk.github.io/velocity-arena/) — realtime multiplayer dogfight |
+| [**lumen-commerce**](https://github.com/kianPk/lumen-commerce) | Vue 3 · Express · Zod | [Store](https://kianpk.github.io/lumen-commerce/) — catalog, bag, checkout API |
 
 ---
 
@@ -29,25 +39,14 @@ Based in Iran · open to freelance & product work
 
 | Demo | Link |
 |------|------|
+| Forge Desk | https://kianpk.github.io/forge-desk/ |
+| Velocity Arena | https://kianpk.github.io/velocity-arena/ |
+| Lumen Commerce | https://kianpk.github.io/lumen-commerce/ |
 | Auth panel | https://kianpk.github.io/vue-auth-panel/ |
 | Task board | https://kianpk.github.io/vue-task-board/ |
 | Shortlink | https://kianpk.github.io/shortlink/ |
 | Server pulse | https://kianpk.github.io/server-pulse/ |
 | Portfolio | https://kianpk.github.io/kianPk/ |
-| Neon Serpent | https://kianpk.github.io/neon-serpent/ |
-| Brickforge | https://kianpk.github.io/brickforge/ |
-| Hexsweep | https://kianpk.github.io/hexsweep/ |
-
----
-
-### Games (original · playable)
-
-| Game | Play |
-|------|------|
-| [**neon-serpent**](https://github.com/kianPk/neon-serpent) | [Play](https://kianpk.github.io/neon-serpent/) — neon snake arcade |
-| [**brickforge**](https://github.com/kianPk/brickforge) | [Play](https://kianpk.github.io/brickforge/) — brick-breaker + power-ups |
-| [**hexsweep**](https://github.com/kianPk/hexsweep) | [Play](https://kianpk.github.io/hexsweep/) — hexagonal minesweeper |
-
 
 ---
 
@@ -65,6 +64,9 @@ Based in Iran · open to freelance & product work
 
 | Project | Stack | What it is |
 |--------|--------|------------|
+| [**forge-desk**](https://github.com/kianPk/forge-desk) | Vue · Node · JWT · Socket.IO | Product workspace + [demo](https://kianpk.github.io/forge-desk/) |
+| [**velocity-arena**](https://github.com/kianPk/velocity-arena) | Vue · Canvas · Socket.IO | Multiplayer arena + [play](https://kianpk.github.io/velocity-arena/) |
+| [**lumen-commerce**](https://github.com/kianPk/lumen-commerce) | Vue · Express · Zod | Storefront + [shop](https://kianpk.github.io/lumen-commerce/) |
 | [**vue-auth-panel**](https://github.com/kianPk/vue-auth-panel) | Vue 3 · Node · JWT | Login / register + [demo](https://kianpk.github.io/vue-auth-panel/) |
 | [**node-api-kit**](https://github.com/kianPk/node-api-kit) | Node · Express · Zod | API kit — routes, validation, auth middleware |
 | [**vue-task-board**](https://github.com/kianPk/vue-task-board) | Vue 3 | Kanban board + [demo](https://kianpk.github.io/vue-task-board/) |
@@ -88,7 +90,7 @@ Based in Iran · open to freelance & product work
 ```text
 Vue 3  ·  Vite  ·  JavaScript
 Node.js  ·  Express  ·  JWT  ·  Socket.IO
-REST APIs  ·  Zod  ·  bcrypt
+REST APIs  ·  Zod  ·  bcrypt  ·  Canvas realtime
 ```
 
 ---

@@ -1,16 +1,12 @@
-# Pin these (profile → Customize your pins)
+# Pin these repos (Customize profile → Pin repositories)
 
-GitHub has no API for pins — do this once in the UI:
+Pin in this order for the strongest first impression:
 
-1. Open https://github.com/kianPk
-2. Click **Customize your pins**
-3. Recommended 6:
+1. **forge-desk** — Vue workspace + Node JWT + Socket.IO
+2. **velocity-arena** — realtime multiplayer arena
+3. **lumen-commerce** — Vue shop + checkout API
+4. **vue-auth-panel** — auth UI demo
+5. **node-api-kit** — Express API kit
+6. **YGuardVIP** or **server-pulse** — production game-server work
 
-- `vue-auth-panel`
-- `node-api-kit`
-- `vue-task-board`
-- `shortlink`
-- `neon-serpent`
-- `brickforge` (or `hexsweep`)
-
-4. Save pins
+GitHub has no public API for pins — do this once in the UI.
