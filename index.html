@@ -396,9 +396,10 @@
       flex-wrap: wrap;
     }
 
-    [data-lang] { display: none; }
+    /* Hide inactive locale nodes; revert restores btn/flex/block correctly */
+    [data-lang] { display: none !important; }
     html[lang="fa"] [data-lang="fa"],
-    html[lang="en"] [data-lang="en"] { display: contents; }
+    html[lang="en"] [data-lang="en"] { display: revert !important; }
     html[lang="en"] { dir: ltr; }
     html[lang="fa"] { dir: rtl; }
   </style>
@@ -415,7 +416,7 @@
         <div class="hero-visual" aria-hidden="true"></div>
         <p class="eyebrow" data-lang="fa">مهندس پلاگین Counter-Strike 2</p>
         <p class="eyebrow" data-lang="en">Counter-Strike 2 plugin engineer</p>
-        <h1>KIAN<span class="accent">.</span></h1>
+        <h1><span dir="ltr">KIAN<span class="accent">.</span></span></h1>
         <p class="lede" data-lang="fa">
           سازندهٔ سوئیت YGuard — پلاگین‌های production برای سرورهای اختصاصی CS2،
           از VIP و ادمین گرفته تا آنتی‌چیت و اینونتوری.
