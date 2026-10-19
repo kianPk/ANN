@@ -25,6 +25,19 @@ Based in Iran · open to freelance & product work
 
 ---
 
+### Projects (boards)
+
+Kanban boards on my profile — not repos:
+
+| Board | Focus |
+|------|--------|
+| [**Web · Vue & Node**](https://github.com/users/kianPk/projects/1) | APIs, auth, dashboards, realtime |
+| [**YGuard · Game servers**](https://github.com/users/kianPk/projects/2) | CS2 plugins & node tooling |
+| [**Roadmap 2026**](https://github.com/users/kianPk/projects/3) | What I'm shipping next |
+
+
+---
+
 ### Web · Vue & Node
 
 | Project | Stack | What it is |
