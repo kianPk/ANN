@@ -34,6 +34,20 @@ Based in Iran · open to freelance & product work
 | Shortlink | https://kianpk.github.io/shortlink/ |
 | Server pulse | https://kianpk.github.io/server-pulse/ |
 | Portfolio | https://kianpk.github.io/kianPk/ |
+| Neon Serpent | https://kianpk.github.io/neon-serpent/ |
+| Brickforge | https://kianpk.github.io/brickforge/ |
+| Hexsweep | https://kianpk.github.io/hexsweep/ |
+
+---
+
+### Games (original · playable)
+
+| Game | Play |
+|------|------|
+| [**neon-serpent**](https://github.com/kianPk/neon-serpent) | [Play](https://kianpk.github.io/neon-serpent/) — neon snake arcade |
+| [**brickforge**](https://github.com/kianPk/brickforge) | [Play](https://kianpk.github.io/brickforge/) — brick-breaker + power-ups |
+| [**hexsweep**](https://github.com/kianPk/hexsweep) | [Play](https://kianpk.github.io/hexsweep/) — hexagonal minesweeper |
+
 
 ---
 
