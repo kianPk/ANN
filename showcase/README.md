@@ -1,11 +1,11 @@
 # Showcase
 
-Open tools built around the same stack as YGuard production nodes.
+These tools also live as standalone public repos:
 
-| Folder | Description |
-|--------|-------------|
-| [cs2-match-recorder](./cs2-match-recorder/) | CS2 round timeline → JSON |
-| [yguard-rcon](./yguard-rcon/) | Source RCON client (TypeScript) |
-| [server-pulse](./server-pulse/) | Live CS2 status UI |
+| Local folder | Repository |
+|--------|------------|
+| [cs2-match-recorder](./cs2-match-recorder/) | https://github.com/kianPk/cs2-match-recorder |
+| [yguard-rcon](./yguard-rcon/) | https://github.com/kianPk/yguard-rcon |
+| [server-pulse](./server-pulse/) | https://github.com/kianPk/server-pulse · [live demo](https://kianpk.github.io/server-pulse/) |
 
-All MIT · [@kianPk](https://github.com/kianPk)
+MIT · [@kianPk](https://github.com/kianPk)
