@@ -10,7 +10,7 @@
 
 **I build production CounterStrikeSharp plugins for Counter-Strike 2 dedicated servers.**
 
-[Portfolio](./index.html) · [Resume](./RESUME.md) · [Showcase](./showcase/)
+[Portfolio](https://kianpk.github.io/kianPk/) · [Resume](./RESUME.md) · [Server Pulse](https://kianpk.github.io/server-pulse/)
 
 </div>
 
@@ -24,13 +24,13 @@ Based in Iran · open to server work, collabs, and freelance
 
 ---
 
-### Open-source showcase
+### Open-source
 
 | Project | Stack | What it is |
 |--------|--------|------------|
-| [**cs2-match-recorder**](./showcase/cs2-match-recorder/) | C# | Round-timeline JSON recorder for CS2 dedicated servers |
-| [**yguard-rcon**](./showcase/yguard-rcon/) | TypeScript | Zero-dep Source/CS2 RCON client (auth + multi-packet) |
-| [**server-pulse**](./showcase/server-pulse/) | HTML/CSS/JS | Live server status page — map, score, roster, ping |
+| [**cs2-match-recorder**](https://github.com/kianPk/cs2-match-recorder) | C# | Round-timeline JSON recorder for CS2 dedicated servers |
+| [**yguard-rcon**](https://github.com/kianPk/yguard-rcon) | TypeScript | Zero-dep Source/CS2 RCON client (auth + multi-packet) |
+| [**server-pulse**](https://github.com/kianPk/server-pulse) | HTML/CSS/JS | [Live server status UI](https://kianpk.github.io/server-pulse/) — map, score, roster, ping |
 
 ---
 
