@@ -28,9 +28,17 @@ Based in Iran · open to server work, collabs, and freelance
 
 | Project | Stack | What it is |
 |--------|--------|------------|
-| [**cs2-match-recorder**](https://github.com/kianPk/cs2-match-recorder) | C# | Round-timeline JSON recorder for CS2 dedicated servers |
-| [**yguard-rcon**](https://github.com/kianPk/yguard-rcon) | TypeScript | Zero-dep Source/CS2 RCON client (auth + multi-packet) |
-| [**server-pulse**](https://github.com/kianPk/server-pulse) | HTML/CSS/JS | [Live server status UI](https://kianpk.github.io/server-pulse/) — map, score, roster, ping |
+| [**cs2-match-recorder**](https://github.com/kianPk/cs2-match-recorder) | C# | Round-timeline JSON recorder |
+| [**cs2-knife-round**](https://github.com/kianPk/cs2-knife-round) | C# | Knife round + side pick |
+| [**cs2-map-vote**](https://github.com/kianPk/cs2-map-vote) | C# | Map vote engine |
+| [**cs2-damage-report**](https://github.com/kianPk/cs2-damage-report) | C# | End-of-round `!damage` |
+| [**cs2-warmup-mgr**](./showcase/cs2-warmup-mgr/) | C# | Warmup timer + ready-up |
+| [**yguard-rcon**](https://github.com/kianPk/yguard-rcon) | TypeScript | Zero-dep Source RCON client |
+| [**yguard-webhook-relay**](./showcase/yguard-webhook-relay/) | TypeScript | Panel → Discord webhooks |
+| [**yguard-server-health**](./showcase/yguard-server-health/) | TypeScript | A2S/TCP health probe |
+| [**cs2-log-tail**](./showcase/cs2-log-tail/) | TypeScript | Console log → JSON |
+| [**steamid-toolkit**](./showcase/steamid-toolkit/) | TypeScript | SteamID64/3/classic converter |
+| [**server-pulse**](https://github.com/kianPk/server-pulse) | HTML/CSS/JS | [Live server status UI](https://kianpk.github.io/server-pulse/) |
 
 ---
 
@@ -38,12 +46,14 @@ Based in Iran · open to server work, collabs, and freelance
 
 | Project | What it does |
 |--------|----------------|
-| [**YGuardVIP**](https://github.com/kianPk/YGuardVIP) | In-game VIP panel, scoreboard tag, free guns, timed VIP DB |
-| [**YGuardAdmin**](https://github.com/kianPk/YGuardAdmin) | Panel-managed admins, kick/ban/slay, anti-noclip |
-| [**YGuardAC**](https://github.com/kianPk/YGuardAC) | Suspicion-score anti-cheat (RapidFire, Speedhack, AimSnap, …) |
-| [**ServersModes**](https://github.com/kianPk/ServersModes) | Server modes (Duels, multiaddonmanager, …) |
-| [**YGuardInvSim**](https://github.com/kianPk/YGuardInvSim) | InventorySimulator `invsim_url` boot on every map start |
-| [**YGuardNoFF**](https://github.com/kianPk/YGuardNoFF) | Panel-driven FF / bhop / parachute prefs |
+| [**YGuardVIP**](https://github.com/kianPk/YGuardVIP) | VIP panel, tag, free guns, timed VIP |
+| [**YGuardAdmin**](https://github.com/kianPk/YGuardAdmin) | Panel admins, kick/ban, anti-noclip |
+| [**YGuardAC**](https://github.com/kianPk/YGuardAC) | Suspicion-score anti-cheat |
+| [**ServersModes**](https://github.com/kianPk/ServersModes) | Duels, multiaddonmanager, … |
+| [**YGuardInvSim**](https://github.com/kianPk/YGuardInvSim) | InventorySimulator boot config |
+| [**YGuardNoFF**](https://github.com/kianPk/YGuardNoFF) | FF / bhop / parachute prefs |
+| [**YGuardRS**](https://github.com/kianPk/YGuardRS) | Reset score (`!rs`) |
+| [**YGuardAntiNoclip**](https://github.com/kianPk/YGuardAntiNoclip) | Block noclip on Public/Ranked |
 
 ---
 
