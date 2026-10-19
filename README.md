@@ -10,7 +10,7 @@
 
 **I build website backends with Node.js and frontends with Vue.**
 
-[Portfolio](https://kianpk.github.io/kianPk/) · [Resume](./RESUME.md)
+[Portfolio](https://kianpk.github.io/kianPk/) · [Resume](./RESUME.md) · [Projects boards](https://github.com/users/kianPk/projects/1)
 
 </div>
 
@@ -18,16 +18,26 @@
 
 ### About
 
-Backend-focused web developer — REST APIs, auth, realtime, and Vue UIs that talk to those APIs.  
-Also ship CS2 / YGuard server plugins when the product needs game-node tooling.
+Backend-focused web developer — REST APIs, auth, realtime, and Vue UIs.  
+Also ship CS2 / YGuard tooling when a product needs game-node work.
 
 Based in Iran · open to freelance & product work
 
 ---
 
-### Projects (boards)
+### Live demos
 
-Kanban boards on my profile — not repos:
+| Demo | Link |
+|------|------|
+| Auth panel | https://kianpk.github.io/vue-auth-panel/ |
+| Task board | https://kianpk.github.io/vue-task-board/ |
+| Shortlink | https://kianpk.github.io/shortlink/ |
+| Server pulse | https://kianpk.github.io/server-pulse/ |
+| Portfolio | https://kianpk.github.io/kianPk/ |
+
+---
+
+### Projects (boards)
 
 | Board | Focus |
 |------|--------|
@@ -35,19 +45,18 @@ Kanban boards on my profile — not repos:
 | [**YGuard · Game servers**](https://github.com/users/kianPk/projects/2) | CS2 plugins & node tooling |
 | [**Roadmap 2026**](https://github.com/users/kianPk/projects/3) | What I'm shipping next |
 
-
 ---
 
 ### Web · Vue & Node
 
 | Project | Stack | What it is |
 |--------|--------|------------|
-| [**node-api-kit**](https://github.com/kianPk/node-api-kit) | Node · Express | API kit — routes, Zod validation, auth middleware |
-| [**vue-auth-panel**](https://github.com/kianPk/vue-auth-panel) | Vue 3 · Node · JWT | Login / register full-stack sample |
+| [**vue-auth-panel**](https://github.com/kianPk/vue-auth-panel) | Vue 3 · Node · JWT | Login / register + [demo](https://kianpk.github.io/vue-auth-panel/) |
+| [**node-api-kit**](https://github.com/kianPk/node-api-kit) | Node · Express · Zod | API kit — routes, validation, auth middleware |
+| [**vue-task-board**](https://github.com/kianPk/vue-task-board) | Vue 3 | Kanban board + [demo](https://kianpk.github.io/vue-task-board/) |
 | [**taskflow-api**](https://github.com/kianPk/taskflow-api) | Node · Express | Projects & tasks REST API |
-| [**vue-task-board**](https://github.com/kianPk/vue-task-board) | Vue 3 | Kanban board for taskflow-api |
 | [**realtime-notes**](https://github.com/kianPk/realtime-notes) | Vue · Socket.IO | Live shared notepad |
-| [**shortlink**](https://github.com/kianPk/shortlink) | Vue · Node | URL shortener |
+| [**shortlink**](https://github.com/kianPk/shortlink) | Vue · Node | URL shortener + [demo](https://kianpk.github.io/shortlink/) |
 
 ---
 
@@ -56,7 +65,7 @@ Kanban boards on my profile — not repos:
 | Project | What it does |
 |--------|----------------|
 | [**YGuardVIP**](https://github.com/kianPk/YGuardVIP) · [**YGuardAdmin**](https://github.com/kianPk/YGuardAdmin) · [**YGuardAC**](https://github.com/kianPk/YGuardAC) | CS2 production plugins |
-| [**yguard-rcon**](https://github.com/kianPk/yguard-rcon) · [**server-pulse**](https://github.com/kianPk/server-pulse) | RCON client & live status UI |
+| [**yguard-rcon**](https://github.com/kianPk/yguard-rcon) · [**server-pulse**](https://github.com/kianPk/server-pulse) | RCON client & [live UI](https://kianpk.github.io/server-pulse/) |
 
 ---
 
