@@ -1,27 +1,13 @@
 # Kian Zarandi
 
-**CS2 Plugin Engineer · YGuard**  
+**Vue · Node.js Backend Developer**  
 Iran · [github.com/kianPk](https://github.com/kianPk) · [zyrax.ir](https://www.zyrax.ir) · kianzarandi701@gmail.com
 
 ---
 
 ## Summary
 
-Counter-Strike 2 plugin engineer building the **YGuard** production suite for dedicated game servers. I design CounterStrikeSharp plugins that integrate with hosting panels, respect Public / Ranked / Practice server types, and ship through versioned GitHub Releases for node-wide installs.
-
----
-
-## Experience
-
-### YGuard — CS2 plugin suite · 2025–present
-Owner / engineer · [github.com/kianPk](https://github.com/kianPk)
-
-- Designed and shipped a modular plugin suite for hosted CS2 nodes (VIP, Admin, Anti-Cheat, Inventory, gameplay prefs).
-- Integrated plugins with panel APIs (admin lists, bans, hosted-server state) and RCON for live updates.
-- Enforced safe behavior by server type: active on Public/Custom, idle on Ranked/Practice where required.
-- Packaged releases as Plugin Directory–ready ZIPs with documented install paths and RCON checks.
-
-**Modules:** YGuardVIP · YGuardAdmin · YGuardAC · YGuardInvSim · YGuardNoFF · YGuardRS · YGuardAntiNoclip · ServersModes (Duels, multiaddonmanager)
+Web developer focused on **Node.js backends** and **Vue** frontends — REST APIs, authentication, realtime features, and admin UIs. Comfortable shipping production tooling around game servers (YGuard / CS2) when the product needs it.
 
 ---
 
@@ -29,20 +15,27 @@ Owner / engineer · [github.com/kianPk](https://github.com/kianPk)
 
 | Area | Tools |
 |------|--------|
-| Game servers | CounterStrikeSharp, C# / .NET, CS2 dedicated, RCON |
-| Platform | Plugin Directory releases, custom-plugins layout, panel sync |
-| Web / other | TypeScript, JavaScript, HTML/CSS, Python / Pygame, Git |
+| Frontend | Vue 3, Vite, JavaScript, HTML/CSS |
+| Backend | Node.js, Express, JWT, Socket.IO, REST |
+| Other | Git, GitHub Releases, RCON / CS2 plugins (C#) |
 
 ---
 
-## Earlier work
+## Selected projects
 
-- **web-game** — browser game (HTML Canvas + JavaScript)
-- **first-pygame-game** — 2D prototype with Pygame
+### Web
+- **node-api-kit** — Express API starter (validation, auth middleware, errors)
+- **vue-auth-panel** — Vue + Node JWT login/register
+- **taskflow-api** + **vue-task-board** — task board API + Vue kanban
+- **realtime-notes** — Socket.IO shared notepad
+- **shortlink** — URL shortener (Node + Vue)
+
+### Game / infra (secondary)
+- **YGuard** plugin suite — CS2 CounterStrikeSharp plugins for hosted nodes
 
 ---
 
 ## Links
 
-- Site: [`index.html`](./index.html)
+- Portfolio: https://kianpk.github.io/kianPk/
 - GitHub: https://github.com/kianPk
