@@ -32,12 +32,12 @@ Based in Iran · open to server work, collabs, and freelance
 | [**cs2-knife-round**](https://github.com/kianPk/cs2-knife-round) | C# | Knife round + side pick |
 | [**cs2-map-vote**](https://github.com/kianPk/cs2-map-vote) | C# | Map vote engine |
 | [**cs2-damage-report**](https://github.com/kianPk/cs2-damage-report) | C# | End-of-round `!damage` |
-| [**cs2-warmup-mgr**](./showcase/cs2-warmup-mgr/) | C# | Warmup timer + ready-up |
+| [**cs2-warmup-mgr**](https://github.com/kianPk/cs2-warmup-mgr) | C# | Warmup timer + ready-up |
 | [**yguard-rcon**](https://github.com/kianPk/yguard-rcon) | TypeScript | Zero-dep Source RCON client |
-| [**yguard-webhook-relay**](./showcase/yguard-webhook-relay/) | TypeScript | Panel → Discord webhooks |
-| [**yguard-server-health**](./showcase/yguard-server-health/) | TypeScript | A2S/TCP health probe |
-| [**cs2-log-tail**](./showcase/cs2-log-tail/) | TypeScript | Console log → JSON |
-| [**steamid-toolkit**](./showcase/steamid-toolkit/) | TypeScript | SteamID64/3/classic converter |
+| [**yguard-webhook-relay**](https://github.com/kianPk/yguard-webhook-relay) | TypeScript | Panel → Discord webhooks |
+| [**yguard-server-health**](https://github.com/kianPk/yguard-server-health) | TypeScript | A2S/TCP health probe |
+| [**cs2-log-tail**](https://github.com/kianPk/cs2-log-tail) | TypeScript | Console log → JSON |
+| [**steamid-toolkit**](https://github.com/kianPk/steamid-toolkit) | TypeScript | SteamID64/3/classic converter |
 | [**server-pulse**](https://github.com/kianPk/server-pulse) | HTML/CSS/JS | [Live server status UI](https://kianpk.github.io/server-pulse/) |
 
 ---
