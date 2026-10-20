@@ -39,9 +39,9 @@ Based in Iran · open to freelance & product work
 
 | Project | Stack | Demo |
 |--------|--------|------|
-| [**sentinel-grid**](./projects/sentinel-grid) | Vue · Express · SOC UI | [Console](https://kianpk.github.io/kianPk/sentinel-grid/) — alert triage & asset risk |
-| [**netprobe-lab**](./projects/netprobe-lab) | Vue · Node DNS/TCP · CIDR | [Lab](https://kianpk.github.io/kianPk/netprobe-lab/) — allowlisted diagnostics |
-| [**vaultguard**](./projects/vaultguard) | Vue · Web Crypto · Zod | [Toolkit](https://kianpk.github.io/kianPk/vaultguard/) — secrets hygiene & JWT decode |
+| [**sentinel-grid**](https://github.com/kianPk/sentinel-grid) | Vue · Express · SOC UI | [Console](https://kianpk.github.io/sentinel-grid/) — alert triage & asset risk |
+| [**netprobe-lab**](https://github.com/kianPk/netprobe-lab) | Vue · Node DNS/TCP · CIDR | [Lab](https://kianpk.github.io/netprobe-lab/) — allowlisted diagnostics |
+| [**vaultguard**](https://github.com/kianPk/vaultguard) | Vue · Web Crypto · Zod | [Toolkit](https://kianpk.github.io/vaultguard/) — secrets hygiene & JWT decode |
 
 > Defensive labs only — allowlisted probes, decode-only JWT, secret *shape* scanning for redaction.
 
@@ -51,9 +51,9 @@ Based in Iran · open to freelance & product work
 
 | Demo | Link |
 |------|------|
-| Sentinel Grid | https://kianpk.github.io/kianPk/sentinel-grid/ |
-| Netprobe Lab | https://kianpk.github.io/kianPk/netprobe-lab/ |
-| Vaultguard | https://kianpk.github.io/kianPk/vaultguard/ |
+| Sentinel Grid | https://kianpk.github.io/sentinel-grid/ |
+| Netprobe Lab | https://kianpk.github.io/netprobe-lab/ |
+| Vaultguard | https://kianpk.github.io/vaultguard/ |
 | Forge Desk | https://kianpk.github.io/forge-desk/ |
 | Velocity Arena | https://kianpk.github.io/velocity-arena/ |
 | Lumen Commerce | https://kianpk.github.io/lumen-commerce/ |
