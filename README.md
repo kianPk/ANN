@@ -1,14 +1,14 @@
 <div align="center">
 
 # Kian Zarandi
-### Vue · Node.js Backend · Web APIs
+### Vue · Node.js Backend · Security & Networks
 
 [![GitHub](https://img.shields.io/badge/GitHub-kianPk-0f1a22?style=for-the-badge&logo=github)](https://github.com/kianPk)
 [![Web](https://img.shields.io/badge/Web-zyrax.ir-c45c26?style=for-the-badge)](https://www.zyrax.ir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kianpk.github.io%2FkianPk-0f1a22?style=for-the-badge)](https://kianpk.github.io/kianPk/)
 [![Email](https://img.shields.io/badge/Email-kianzarandi701%40gmail.com-3a4a56?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianzarandi701@gmail.com)
 
-**I build website backends with Node.js and frontends with Vue.**
+**I build website backends with Node.js, Vue frontends, and defensive security / network tooling.**
 
 [Portfolio](https://kianpk.github.io/kianPk/) · [Resume](./RESUME.md) · [Projects boards](https://github.com/users/kianPk/projects/1)
 
@@ -19,7 +19,7 @@
 ### About
 
 Backend-focused web developer — REST APIs, auth, realtime, and Vue product UIs.  
-Also ship CS2 / YGuard tooling when a product needs game-node work.
+Also ship defensive SOC / network labs and CS2 / YGuard tooling when the job needs it.
 
 Based in Iran · open to freelance & product work
 
@@ -29,9 +29,21 @@ Based in Iran · open to freelance & product work
 
 | Project | Stack | Demo |
 |--------|--------|------|
-| [**forge-desk**](https://github.com/kianPk/forge-desk) | Vue 3 · Express · JWT · Socket.IO | [Workspace demo](https://kianpk.github.io/forge-desk/) — Linear-style board, drag & drop, presence |
-| [**velocity-arena**](https://github.com/kianPk/velocity-arena) | Vue · Canvas · Socket.IO | [Play](https://kianpk.github.io/velocity-arena/) — realtime multiplayer dogfight |
-| [**lumen-commerce**](https://github.com/kianPk/lumen-commerce) | Vue 3 · Express · Zod | [Store](https://kianpk.github.io/lumen-commerce/) — catalog, bag, checkout API |
+| [**forge-desk**](https://github.com/kianPk/forge-desk) | Vue 3 · Express · JWT · Socket.IO | [Workspace](https://kianpk.github.io/forge-desk/) |
+| [**velocity-arena**](https://github.com/kianPk/velocity-arena) | Vue · Canvas · Socket.IO | [Play](https://kianpk.github.io/velocity-arena/) |
+| [**lumen-commerce**](https://github.com/kianPk/lumen-commerce) | Vue 3 · Express · Zod | [Store](https://kianpk.github.io/lumen-commerce/) |
+
+---
+
+### Security · Network
+
+| Project | Stack | Demo |
+|--------|--------|------|
+| [**sentinel-grid**](./projects/sentinel-grid) | Vue · Express · SOC UI | [Console](https://kianpk.github.io/kianPk/sentinel-grid/) — alert triage & asset risk |
+| [**netprobe-lab**](./projects/netprobe-lab) | Vue · Node DNS/TCP · CIDR | [Lab](https://kianpk.github.io/kianPk/netprobe-lab/) — allowlisted diagnostics |
+| [**vaultguard**](./projects/vaultguard) | Vue · Web Crypto · Zod | [Toolkit](https://kianpk.github.io/kianPk/vaultguard/) — secrets hygiene & JWT decode |
+
+> Defensive labs only — allowlisted probes, decode-only JWT, secret *shape* scanning for redaction.
 
 ---
 
@@ -39,6 +51,9 @@ Based in Iran · open to freelance & product work
 
 | Demo | Link |
 |------|------|
+| Sentinel Grid | https://kianpk.github.io/kianPk/sentinel-grid/ |
+| Netprobe Lab | https://kianpk.github.io/kianPk/netprobe-lab/ |
+| Vaultguard | https://kianpk.github.io/kianPk/vaultguard/ |
 | Forge Desk | https://kianpk.github.io/forge-desk/ |
 | Velocity Arena | https://kianpk.github.io/velocity-arena/ |
 | Lumen Commerce | https://kianpk.github.io/lumen-commerce/ |
@@ -89,8 +104,8 @@ Based in Iran · open to freelance & product work
 
 ```text
 Vue 3  ·  Vite  ·  JavaScript
-Node.js  ·  Express  ·  JWT  ·  Socket.IO
-REST APIs  ·  Zod  ·  bcrypt  ·  Canvas realtime
+Node.js  ·  Express  ·  JWT  ·  Socket.IO  ·  Zod
+Security labs  ·  DNS/TCP diagnostics  ·  Web Crypto
 ```
 
 ---
@@ -98,6 +113,18 @@ REST APIs  ·  Zod  ·  bcrypt  ·  Canvas realtime
 ### Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=graywhite&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=kianPk&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kianPk&bg_color=00000000&color=c45c26&line=3a4a56&point=c45c26&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kianPk&theme=onedark&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies" />
 </p>
