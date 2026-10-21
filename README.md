@@ -39,6 +39,9 @@ Based in Iran · open to freelance & product work
 
 | Project | Stack | Demo |
 |--------|--------|------|
+| [**honeypot-deck**](https://github.com/kianPk/honeypot-deck) | Vue · Socket.IO | [Live stream](https://kianpk.github.io/honeypot-deck/) — decoy attack feed |
+| [**intel-radar**](https://github.com/kianPk/intel-radar) | Vue · Express | [IoC console](https://kianpk.github.io/intel-radar/) — threat intel + matches |
+| [**flowscope**](https://github.com/kianPk/flowscope) | Vue · Express | [Flows](https://kianpk.github.io/flowscope/) — network talkers & threat tags |
 | [**sentinel-grid**](https://github.com/kianPk/sentinel-grid) | Vue · Express · SOC UI | [Console](https://kianpk.github.io/sentinel-grid/) — alert triage & asset risk |
 | [**netprobe-lab**](https://github.com/kianPk/netprobe-lab) | Vue · Node DNS/TCP · CIDR | [Lab](https://kianpk.github.io/netprobe-lab/) — allowlisted diagnostics |
 | [**vaultguard**](https://github.com/kianPk/vaultguard) | Vue · Web Crypto · Zod | [Toolkit](https://kianpk.github.io/vaultguard/) — secrets hygiene & JWT decode |
@@ -51,6 +54,9 @@ Based in Iran · open to freelance & product work
 
 | Demo | Link |
 |------|------|
+| Honeypot Deck | https://kianpk.github.io/honeypot-deck/ |
+| Intel Radar | https://kianpk.github.io/intel-radar/ |
+| Flowscope | https://kianpk.github.io/flowscope/ |
 | Sentinel Grid | https://kianpk.github.io/sentinel-grid/ |
 | Netprobe Lab | https://kianpk.github.io/netprobe-lab/ |
 | Vaultguard | https://kianpk.github.io/vaultguard/ |

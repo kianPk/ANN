@@ -1,10 +1,10 @@
 # Pin these repos (Customize profile → Pin repositories)
 
-1. **forge-desk** — Vue workspace + Node JWT + Socket.IO
-2. **sentinel-grid** — SOC console
-3. **netprobe-lab** — network diagnostics lab
-4. **vaultguard** — secrets / JWT toolkit
-5. **velocity-arena** or **lumen-commerce**
+1. **honeypot-deck** — live honeypot attack stream
+2. **intel-radar** — threat intel console
+3. **flowscope** — network flow analyzer
+4. **forge-desk** — Vue workspace + JWT
+5. **sentinel-grid** — SOC alert triage
 6. **YGuardVIP** or **server-pulse**
 
 GitHub has no public API for pins — do this once in the UI.
