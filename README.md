@@ -173,5 +173,6 @@ Rust  ·  Python  ·  Web Crypto  ·  Security labs
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kianPk&theme=dark&hide_border=true&layout=compact" alt="WakaTime (if linked)" />
+  <a href="https://github.com/kianPk/pulsehub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=pulsehub&theme=dark&hide_border=true" alt="pulsehub" /></a>
+  <a href="https://github.com/kianPk/pulseboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=pulseboard&theme=dark&hide_border=true" alt="pulseboard" /></a>
 </p>
