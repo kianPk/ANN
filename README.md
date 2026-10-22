@@ -181,11 +181,15 @@ npx deadlinks README.md
 
 ## ▸ Stack
 
-```text
-Rust · Tokio · Axum · Go · Flutter / Dart
-Vue 3 · Vite · Node.js · Express · JWT · Socket.IO
-Python · Web Crypto · defensive security labs
-```
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,go,flutter,vue,nodejs,ts,python,docker,linux,github&theme=dark" alt="Stack icons" />
+  <br/><br/>
+  <code>Rust · Tokio · Axum · Go · Flutter</code>
+  &nbsp;·&nbsp;
+  <code>Vue 3 · Node · JWT · Socket.IO</code>
+  &nbsp;·&nbsp;
+  <code>Security labs</code>
+</div>
 
 ---
 
@@ -193,30 +197,55 @@ Python · Web Crypto · defensive security labs
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&icon_color=1F6F8B&text_color=E6EDF3&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,discussions_started" alt="GitHub stats" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&text_color=E6EDF3&langs_count=10&card_width=360" alt="Top languages" />
+<!-- stable cards: no include_all_commits (that endpoint errors), no dead trophy/graph hosts -->
+
+<a href="https://github.com/kianPk">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&icon_color=1F6F8B&text_color=E6EDF3&rank_icon=github" alt="GitHub stats" />
+</a>
+<a href="https://github.com/kianPk">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&text_color=E6EDF3&langs_count=8&card_width=340" alt="Top languages" />
+</a>
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com/?user=kianPk&theme=radical&hide_border=true&background=0F1419&ring=E4572E&fire=E4572E&currStreakLabel=E4572E&sideLabels=9AA8B5&dates=6A7785" alt="GitHub streak" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kianPk&bg_color=0f1419&color=e4572e&line=1f6f8b&point=3dffa8&area=true&hide_border=true&area_opacity=0.18" alt="Contribution graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kianPk&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Trophies" />
+<img height="160" src="https://streak-stats.demolab.com/?user=kianPk&theme=radical&hide_border=true&background=0F1419&ring=E4572E&fire=E4572E&currStreakLabel=E4572E&sideLabels=9AA8B5&dates=6A7785&stroke=E4572E33" alt="GitHub streak" />
 
 <br/><br/>
 
-### Pinned flagships
+**Contribution heat**
 
-<a href="https://github.com/kianPk/loadforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&icon_color=1F6F8B&text_color=E6EDF3" alt="loadforge" /></a>
-<a href="https://github.com/kianPk/gateproxy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=gateproxy&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&icon_color=00ADD8&text_color=E6EDF3" alt="gateproxy" /></a>
+<br/>
 
-<a href="https://github.com/kianPk/pulsehub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=pulsehub&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&icon_color=00ADD8&text_color=E6EDF3" alt="pulsehub" /></a>
-<a href="https://github.com/kianPk/notecraft"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=notecraft&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&icon_color=02569B&text_color=E6EDF3" alt="notecraft" /></a>
+<img src="https://ghchart.rshah.org/e4572e/kianPk" alt="Contribution chart" width="100%" />
+
+<br/><br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kianPk&theme=radical" alt="Summary stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kianPk&theme=radical&utcOffset=3.5" alt="Productive time" />
+
+<br/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kianPk&theme=radical&hide=HTML,CSS" alt="Repos per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kianPk&theme=radical" alt="Most commit language" />
+
+<br/><br/>
+
+### Flagship pins
+
+<a href="https://github.com/kianPk/loadforge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&icon_color=DEA584&text_color=E6EDF3" alt="loadforge" />
+</a>
+<a href="https://github.com/kianPk/gateproxy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=gateproxy&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&icon_color=00ADD8&text_color=E6EDF3" alt="gateproxy" />
+</a>
+
+<br/>
+
+<a href="https://github.com/kianPk/pulsehub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=pulsehub&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&icon_color=00ADD8&text_color=E6EDF3" alt="pulsehub" />
+</a>
+<a href="https://github.com/kianPk/pulseboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=pulseboard&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&icon_color=02569B&text_color=E6EDF3" alt="pulseboard" />
+</a>
 
 </div>
 
