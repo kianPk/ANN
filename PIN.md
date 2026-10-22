@@ -1,10 +1,12 @@
 # Pin these repos (Customize profile → Pin repositories)
 
-1. **honeypot-deck** — live honeypot attack stream
-2. **intel-radar** — threat intel console
-3. **flowscope** — network flow analyzer
-4. **forge-desk** — Vue workspace + JWT
-5. **sentinel-grid** — SOC alert triage
-6. **YGuardVIP** or **server-pulse**
+Mix product + CLI for stars:
 
-GitHub has no public API for pins — do this once in the UI.
+1. **portkill** — Go CLI everyone needs
+2. **gitsum** — Rust git summary
+3. **forge-desk** — Vue workspace
+4. **honeypot-deck** — security demo
+5. **deadlinks** or **envdoctor** — CI utilities
+6. **YGuardVIP** — production game-server work
+
+Share CLIs on Reddit (r/commandline, r/golang, r/rust), Dev.to, and Twitter/X with a one-liner demo.

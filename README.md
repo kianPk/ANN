@@ -1,14 +1,14 @@
 <div align="center">
 
 # Kian Zarandi
-### Vue · Node.js Backend · Security & Networks
+### Vue · Node · CLIs · Security
 
 [![GitHub](https://img.shields.io/badge/GitHub-kianPk-0f1a22?style=for-the-badge&logo=github)](https://github.com/kianPk)
 [![Web](https://img.shields.io/badge/Web-zyrax.ir-c45c26?style=for-the-badge)](https://www.zyrax.ir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kianpk.github.io%2FkianPk-0f1a22?style=for-the-badge)](https://kianpk.github.io/kianPk/)
 [![Email](https://img.shields.io/badge/Email-kianzarandi701%40gmail.com-3a4a56?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianzarandi701@gmail.com)
 
-**I build website backends with Node.js, Vue frontends, and defensive security / network tooling.**
+**I build Node/Vue products, practical CLIs (Go · Rust · Python · JS), and defensive security labs.**
 
 [Portfolio](https://kianpk.github.io/kianPk/) · [Resume](./RESUME.md) · [Projects boards](https://github.com/users/kianPk/projects/1)
 
@@ -19,9 +19,27 @@
 ### About
 
 Backend-focused web developer — REST APIs, auth, realtime, and Vue product UIs.  
-Also ship defensive SOC / network labs and CS2 / YGuard tooling when the job needs it.
+Also ship small useful open-source CLIs and defensive SOC / network labs.
 
 Based in Iran · open to freelance & product work
+
+---
+
+### Useful CLIs · multi-language
+
+| Project | Lang | What it does |
+|--------|------|----------------|
+| [**portkill**](https://github.com/kianPk/portkill) | Go | Free a busy TCP port in one command |
+| [**gitsum**](https://github.com/kianPk/gitsum) | Rust | One-glance git repo summary |
+| [**envdoctor**](https://github.com/kianPk/envdoctor) | Python | Validate `.env` vs `.env.example` (CI-ready) |
+| [**tlsage**](https://github.com/kianPk/tlsage) | Python | Days until a TLS cert expires |
+| [**deadlinks**](https://github.com/kianPk/deadlinks) | Node.js | Find broken links in Markdown/HTML |
+
+```bash
+go install github.com/kianPk/portkill@latest
+cargo install --git https://github.com/kianPk/gitsum
+npx deadlinks README.md
+```
 
 ---
 
