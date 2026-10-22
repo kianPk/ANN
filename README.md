@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Kian Zarandi — Rust · Go · Flutter · Vue · Security" width="100%" />
+<img src="./assets/banner.png" alt="Kian Zarandi — Rust · Go · Flutter · Vue · Security" width="100%" />
 
 <br/>
 
-<img src="./assets/typing.svg" alt="building systems that look as good as they run" width="520" />
+<img src="./assets/typing.png" alt="building systems that look as good as they run" width="520" />
 
 <br/><br/>
 
