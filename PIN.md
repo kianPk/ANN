@@ -1,12 +1,12 @@
 # Pin these repos (Customize profile → Pin repositories)
 
-Mix product + CLI for stars:
+Best mix for stars / followers:
 
-1. **portkill** — Go CLI everyone needs
-2. **gitsum** — Rust git summary
-3. **forge-desk** — Vue workspace
-4. **honeypot-deck** — security demo
-5. **deadlinks** or **envdoctor** — CI utilities
-6. **YGuardVIP** — production game-server work
+1. **gateproxy** — heavy Go API gateway
+2. **notecraft** — Flutter notes (web demo)
+3. **pulsehub** — Go WebSocket hub
+4. **pulseboard** — Flutter ops dashboard
+5. **portkill** — tiny Go CLI everyone needs
+6. **honeypot-deck** or **forge-desk**
 
-Share CLIs on Reddit (r/commandline, r/golang, r/rust), Dev.to, and Twitter/X with a one-liner demo.
+Tip: post Gateproxy + NoteCraft demos with GIFs on Reddit (r/golang, r/FlutterDev) and Dev.to.

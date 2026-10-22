@@ -1,14 +1,14 @@
 <div align="center">
 
 # Kian Zarandi
-### Vue · Node · CLIs · Security
+### Go · Flutter · Vue · Security
 
 [![GitHub](https://img.shields.io/badge/GitHub-kianPk-0f1a22?style=for-the-badge&logo=github)](https://github.com/kianPk)
 [![Web](https://img.shields.io/badge/Web-zyrax.ir-c45c26?style=for-the-badge)](https://www.zyrax.ir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kianpk.github.io%2FkianPk-0f1a22?style=for-the-badge)](https://kianpk.github.io/kianPk/)
 [![Email](https://img.shields.io/badge/Email-kianzarandi701%40gmail.com-3a4a56?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianzarandi701@gmail.com)
 
-**I build Node/Vue products, practical CLIs (Go · Rust · Python · JS), and defensive security labs.**
+**Go gateways & realtime hubs · Flutter apps · Vue/Node products · defensive security labs.**
 
 [Portfolio](https://kianpk.github.io/kianPk/) · [Resume](./RESUME.md) · [Projects boards](https://github.com/users/kianPk/projects/1)
 
@@ -18,10 +18,25 @@
 
 ### About
 
-Backend-focused web developer — REST APIs, auth, realtime, and Vue product UIs.  
-Also ship small useful open-source CLIs and defensive SOC / network labs.
+I ship backends and product UIs — **Go** services, **Flutter** clients, **Vue/Node** web apps, plus defensive security tooling and practical CLIs.
 
 Based in Iran · open to freelance & product work
+
+---
+
+### Heavy · Go & Flutter
+
+| Project | Stack | Demo |
+|--------|--------|------|
+| [**gateproxy**](https://github.com/kianPk/gateproxy) | Go · JWT · rate limit · reverse proxy | [Console](https://kianpk.github.io/gateproxy/) |
+| [**pulsehub**](https://github.com/kianPk/pulsehub) | Go · WebSocket rooms · presence | [Chat hub](https://kianpk.github.io/pulsehub/) |
+| [**notecraft**](https://github.com/kianPk/notecraft) | Flutter · local-first notes | [App](https://kianpk.github.io/notecraft/) |
+| [**pulseboard**](https://github.com/kianPk/pulseboard) | Flutter · ops dashboard | [Dashboard](https://kianpk.github.io/pulseboard/) |
+
+<p align="center">
+  <a href="https://github.com/kianPk/gateproxy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=gateproxy&theme=transparent&hide_border=true" alt="gateproxy" /></a>
+  <a href="https://github.com/kianPk/notecraft"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=notecraft&theme=transparent&hide_border=true" alt="notecraft" /></a>
+</p>
 
 ---
 
@@ -72,6 +87,10 @@ npx deadlinks README.md
 
 | Demo | Link |
 |------|------|
+| Gateproxy | https://kianpk.github.io/gateproxy/ |
+| Pulsehub | https://kianpk.github.io/pulsehub/ |
+| NoteCraft | https://kianpk.github.io/notecraft/ |
+| Pulseboard | https://kianpk.github.io/pulseboard/ |
 | Honeypot Deck | https://kianpk.github.io/honeypot-deck/ |
 | Intel Radar | https://kianpk.github.io/intel-radar/ |
 | Flowscope | https://kianpk.github.io/flowscope/ |
@@ -127,9 +146,9 @@ npx deadlinks README.md
 ### Stack
 
 ```text
-Vue 3  ·  Vite  ·  JavaScript
+Go  ·  Flutter / Dart  ·  Vue 3  ·  Vite
 Node.js  ·  Express  ·  JWT  ·  Socket.IO  ·  Zod
-Security labs  ·  DNS/TCP diagnostics  ·  Web Crypto
+Rust  ·  Python  ·  Web Crypto  ·  Security labs
 ```
 
 ---
@@ -137,18 +156,22 @@ Security labs  ·  DNS/TCP diagnostics  ·  Web Crypto
 ### Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,discussions_started" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=360" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=kianPk&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=kianPk&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kianPk&bg_color=00000000&color=c45c26&line=3a4a56&point=c45c26&area=true&hide_border=true" alt="Contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kianPk&bg_color=0d1117&color=3dffa8&line=5ec8ff&point=c45c26&area=true&hide_border=true&area_opacity=0.2" alt="Contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kianPk&theme=onedark&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kianPk&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kianPk&theme=dark&hide_border=true&layout=compact" alt="WakaTime (if linked)" />
 </p>
