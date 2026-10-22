@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Kian — Vue & Node.js</title>
-  <meta name="description" content="Kian Zarandi (kianPk) — Vue & Node.js developer. Product UIs, APIs, realtime — plus YGuard for CS2 servers." />
+  <title>Kian — Rust · Go · Flutter · Vue</title>
+  <meta name="description" content="Kian Zarandi (kianPk) — Rust systems, Go gateways, Flutter apps, Vue/Node products, and defensive security labs." />
   <meta name="author" content="Kian Zarandi" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -20,6 +20,7 @@
       --accent: #c45c26;
       --accent-deep: #9a3f14;
       --glow: rgba(196, 92, 38, 0.18);
+      --slag: #1f6f8b;
       --mono: "JetBrains Mono", ui-monospace, monospace;
       --display: "Syne", "Vazirmatn", system-ui, sans-serif;
       --body: "Vazirmatn", system-ui, sans-serif;
@@ -32,8 +33,9 @@
       font-family: var(--body);
       color: var(--ink);
       background:
-        radial-gradient(1200px 600px at 10% -10%, rgba(196, 92, 38, 0.14), transparent 55%),
-        radial-gradient(900px 500px at 95% 5%, rgba(40, 90, 120, 0.16), transparent 50%),
+        radial-gradient(1200px 600px at 10% -10%, rgba(196, 92, 38, 0.16), transparent 55%),
+        radial-gradient(900px 500px at 95% 5%, rgba(31, 111, 139, 0.18), transparent 50%),
+        radial-gradient(700px 380px at 50% 110%, rgba(196, 92, 38, 0.08), transparent 55%),
         linear-gradient(165deg, var(--bg-0), var(--bg-1) 55%, #cfd9e2);
       min-height: 100vh;
       line-height: 1.65;
@@ -68,6 +70,16 @@
     @keyframes pulseLine {
       0%, 100% { transform: scaleX(0.35); opacity: 0.5; }
       50% { transform: scaleX(1); opacity: 1; }
+    }
+
+    @keyframes orbitSpin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+
+    @keyframes accentFlash {
+      0%, 100% { opacity: 0.55; }
+      50% { opacity: 1; }
     }
 
     .wrap {
@@ -132,6 +144,15 @@
       z-index: -1;
     }
 
+    .hero-visual::before {
+      content: "";
+      position: absolute;
+      inset: -6%;
+      border: 1px dashed rgba(31, 111, 139, 0.35);
+      border-radius: 50%;
+      animation: orbitSpin 28s linear infinite;
+    }
+
     .hero-visual::after {
       content: "";
       position: absolute;
@@ -140,6 +161,26 @@
       border-radius: 50%;
       animation: pulseLine 4.5s ease-in-out infinite;
       transform-origin: center;
+    }
+
+    .hero-signal {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.55rem;
+      margin-top: 1.35rem;
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+      animation: riseIn 0.85s 0.32s ease both;
+    }
+    .hero-signal i {
+      width: 0.55rem;
+      height: 0.55rem;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 0 4px var(--glow);
+      animation: accentFlash 2.2s ease-in-out infinite;
     }
 
     .eyebrow {
@@ -390,25 +431,26 @@
 <body>
   <div class="wrap">
     <header class="topbar">
-      <div class="brand-mark" dir="ltr">Kian <span>/</span> YGuard</div>
+      <div class="brand-mark" dir="ltr">Kian <span>/</span> Loadforge</div>
       <button type="button" class="lang-toggle" id="langToggle" aria-label="Toggle language">EN</button>
     </header>
 
     <main>
       <section class="hero" aria-label="Hero">
         <div class="hero-visual" aria-hidden="true"></div>
-        <p class="eyebrow" data-lang="fa">توسعه‌دهنده Vue و Node.js</p>
-        <p class="eyebrow" data-lang="en">Vue & Node.js developer</p>
+        <p class="eyebrow" data-lang="fa">Rust · Go · Flutter · Vue</p>
+        <p class="eyebrow" data-lang="en">Rust · Go · Flutter · Vue</p>
         <h1><span dir="ltr">KIAN<span class="accent">.</span></span></h1>
         <p class="lede" data-lang="fa">
-          بک‌اند سایت با Node.js و فرانت با Vue — API، احراز هویت، و ابزارهای realtime.
+          سیستم‌های Rust، گیت‌وی Go، اپ‌های Flutter و محصول‌های Vue/Node — با دموی زنده روی GitHub Pages.
         </p>
         <p class="lede" data-lang="en">
-          Website backends with Node.js and frontends with Vue — APIs, auth, and realtime tools.
+          Rust systems, Go gateways, Flutter apps, and Vue/Node products — with live demos on GitHub Pages.
         </p>
+        <p class="hero-signal" dir="ltr"><i aria-hidden="true"></i> loadforge · gateproxy · pulsehub</p>
         <div class="cta-row">
-          <a class="btn btn-primary" href="https://github.com/kianPk" target="_blank" rel="noopener">GitHub</a>
-          <a class="btn btn-ghost" href="https://www.zyrax.ir" target="_blank" rel="noopener">zyrax.ir</a>
+          <a class="btn btn-primary" href="https://kianpk.github.io/loadforge/" target="_blank" rel="noopener">Loadforge</a>
+          <a class="btn btn-ghost" href="https://github.com/kianPk" target="_blank" rel="noopener">GitHub</a>
           <a class="btn btn-ghost" href="#projects" data-lang="fa">پروژه‌ها</a>
           <a class="btn btn-ghost" href="#projects" data-lang="en">Projects</a>
         </div>
@@ -418,26 +460,24 @@
         <div class="section-head">
           <h2 data-lang="fa">چی کار می‌کنم</h2>
           <h2 data-lang="en">What I do</h2>
-          <p data-lang="fa">بک‌اند Node، فرانت Vue، و وقتی لازم باشه ابزار گیم‌سرور.</p>
-          <p data-lang="en">Node backends, Vue product UIs — and game-server tooling when the job needs it.</p>
+          <p data-lang="fa">Rust و Go برای سیستم‌های سنگین، Flutter و Vue برای محصول — به‌علاوه لبه امنیتی دفاعی.</p>
+          <p data-lang="en">Rust and Go for heavy systems, Flutter and Vue for product — plus defensive security labs.</p>
         </div>
         <div class="about-grid">
           <div class="about-copy">
             <p data-lang="fa">
-              تمرکز اصلیم <strong>وب‌اپ‌های Vue و APIهای Node</strong> است: احراز هویت JWT، بورد ورک‌اسپیس،
-              فروشگاه، و ریل‌تایم با Socket.IO — با دموی زنده روی GitHub Pages.
+              فلگ‌شیپ‌ها: <strong>Loadforge</strong> (Rust · Tokio · Axum)، <strong>Gateproxy</strong> و
+              <strong>Pulsehub</strong> با Go، اپ‌های Flutter مثل NoteCraft، و محصولات Vue/Node با JWT و Socket.IO.
             </p>
             <p data-lang="en">
-              My focus is <strong>Vue product UIs and Node APIs</strong>: JWT auth, workspace boards,
-              commerce flows, and Socket.IO realtime — with live demos on GitHub Pages.
+              Flagships: <strong>Loadforge</strong> (Rust · Tokio · Axum), <strong>Gateproxy</strong> and
+              <strong>Pulsehub</strong> in Go, Flutter apps like NoteCraft, and Vue/Node products with JWT + Socket.IO.
             </p>
             <p data-lang="fa">
-              کنارش اکوسیستم <strong>YGuard</strong> را برای سرورهای CS2 نگه می‌دارم — پلاگین‌های
-              CounterStrikeSharp که با پنل هاستینگ سینک می‌شوند.
+              کنارش لبه امنیتی دفاعی (honeypot، intel، SOC UI) و اکوسیستم <strong>YGuard</strong> برای سرورهای CS2.
             </p>
             <p data-lang="en">
-              Alongside that I maintain the <strong>YGuard</strong> CS2 suite — CounterStrikeSharp plugins
-              that sync with a hosting panel under real match traffic.
+              Alongside that: defensive security labs (honeypot, intel, SOC UI) and the <strong>YGuard</strong> CS2 suite.
             </p>
           </div>
           <ul class="meta-list">
@@ -446,7 +486,7 @@
             <li><span data-lang="fa">وب</span><span data-lang="en">Web</span><span><a href="https://www.zyrax.ir">zyrax.ir</a></span></li>
             <li><span data-lang="fa">ایمیل</span><span data-lang="en">Email</span><span><a href="mailto:kianzarandi701@gmail.com">kianzarandi701@gmail.com</a></span></li>
             <li><span data-lang="fa">لوکیشن</span><span data-lang="en">Based</span><span data-lang="fa">ایران</span><span data-lang="en">Iran</span></li>
-            <li><span data-lang="fa">استک اصلی</span><span data-lang="en">Core stack</span><span>Vue · Node.js · Express</span></li>
+            <li><span data-lang="fa">استک اصلی</span><span data-lang="en">Core stack</span><span>Rust · Go · Flutter · Vue</span></li>
           </ul>
         </div>
       </section>
@@ -455,24 +495,24 @@
         <div class="section-head">
           <h2 data-lang="fa">مهارت‌ها</h2>
           <h2 data-lang="en">Skills</h2>
-          <p data-lang="fa">چیزهایی که هر روز باهاشون کشتی می‌گیرم.</p>
-          <p data-lang="en">What I reach for when shipping product.</p>
+          <p data-lang="fa">از ورکرهای Tokio تا UI محصول — ابزارهایی که هر روز باهاشون می‌سازم.</p>
+          <p data-lang="en">From Tokio workers to product UI — what I reach for when shipping.</p>
         </div>
         <div class="skill-bands">
           <div class="skill-band">
-            <strong data-lang="fa">فرانت Vue</strong>
-            <strong data-lang="en">Vue frontend</strong>
-            <p>Vue 3 · Vite · Vue Router · realtime UI · canvas · responsive product surfaces</p>
+            <strong data-lang="fa">سیستم Rust</strong>
+            <strong data-lang="en">Rust systems</strong>
+            <p>Tokio · Axum · reqwest · WebSocket metrics · concurrent HTTP load tooling</p>
           </div>
           <div class="skill-band">
-            <strong data-lang="fa">بک‌اند Node</strong>
-            <strong data-lang="en">Node backend</strong>
-            <p>Express · JWT · Zod · bcrypt · Socket.IO · REST APIs · checkout flows</p>
+            <strong data-lang="fa">Go و Flutter</strong>
+            <strong data-lang="en">Go & Flutter</strong>
+            <p>API gateways · JWT · WebSocket hubs · Flutter Web · local-first & ops dashboards</p>
           </div>
           <div class="skill-band">
-            <strong data-lang="fa">گیم‌سرور</strong>
-            <strong data-lang="en">Game servers</strong>
-            <p>CounterStrikeSharp · C# / .NET · RCON · YGuard VIP / Admin / AC</p>
+            <strong data-lang="fa">Vue / Node و امنیت</strong>
+            <strong data-lang="en">Vue / Node & security</strong>
+            <p>Vue 3 · Express · Socket.IO · defensive labs · CounterStrikeSharp / YGuard</p>
           </div>
         </div>
       </section>
@@ -481,10 +521,19 @@
         <div class="section-head">
           <h2 data-lang="fa">پروژه‌های منتخب</h2>
           <h2 data-lang="en">Selected work</h2>
-          <p data-lang="fa">فلگ‌شیپ‌های Vue/Node با دموی زنده — به‌علاوه YGuard.</p>
-          <p data-lang="en">Vue/Node flagships with live demos — plus YGuard.</p>
+          <p data-lang="fa">از Loadforge تا Gateproxy — فلگ‌شیپ‌ها با دموی زنده.</p>
+          <p data-lang="en">From Loadforge to Gateproxy — flagships with live demos.</p>
         </div>
         <div class="projects">
+          <a class="project" href="https://kianpk.github.io/loadforge/" target="_blank" rel="noopener">
+            <div class="project-tag">Rust · Tokio · Axum</div>
+            <div>
+              <h3>Loadforge</h3>
+              <p data-lang="fa">فورج لود HTTP با ورکرهای همزمان، هیستوگرام latency و داشبورد WebSocket زنده.</p>
+              <p data-lang="en">HTTP load forge with concurrent workers, latency histograms, and a live WebSocket dashboard.</p>
+            </div>
+            <div class="project-arrow" aria-hidden="true">↗</div>
+          </a>
           <a class="project" href="https://kianpk.github.io/gateproxy/" target="_blank" rel="noopener">
             <div class="project-tag">Go · Gateway</div>
             <div>
@@ -613,12 +662,13 @@
           </a>
         </div>
         <div class="stack-row" aria-label="Tech">
+          <span>Rust</span>
+          <span>Tokio</span>
+          <span>Go</span>
+          <span>Flutter</span>
           <span>Vue 3</span>
-          <span>Node.js</span>
-          <span>Express</span>
+          <span>Axum</span>
           <span>Socket.IO</span>
-          <span>JWT</span>
-          <span>C#</span>
         </div>
       </section>
 

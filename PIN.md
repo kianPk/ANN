@@ -2,11 +2,11 @@
 
 Best mix for stars / followers:
 
-1. **gateproxy** — heavy Go API gateway
-2. **notecraft** — Flutter notes (web demo)
-3. **pulsehub** — Go WebSocket hub
-4. **pulseboard** — Flutter ops dashboard
-5. **portkill** — tiny Go CLI everyone needs
+1. **loadforge** — Rust HTTP load forge (Tokio · Axum · live WS dashboard)
+2. **gateproxy** — heavy Go API gateway
+3. **notecraft** — Flutter notes (web demo)
+4. **pulsehub** — Go WebSocket hub
+5. **pulseboard** — Flutter ops dashboard
 6. **honeypot-deck** or **forge-desk**
 
-Tip: post Gateproxy + NoteCraft demos with GIFs on Reddit (r/golang, r/FlutterDev) and Dev.to.
+Tip: post Loadforge + Gateproxy demos with GIFs on Reddit (r/rust, r/golang) and Dev.to.

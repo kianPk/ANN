@@ -1,14 +1,14 @@
 <div align="center">
 
 # Kian Zarandi
-### Go · Flutter · Vue · Security
+### Rust · Go · Flutter · Vue · Security
 
 [![GitHub](https://img.shields.io/badge/GitHub-kianPk-0f1a22?style=for-the-badge&logo=github)](https://github.com/kianPk)
 [![Web](https://img.shields.io/badge/Web-zyrax.ir-c45c26?style=for-the-badge)](https://www.zyrax.ir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kianpk.github.io%2FkianPk-0f1a22?style=for-the-badge)](https://kianpk.github.io/kianPk/)
 [![Email](https://img.shields.io/badge/Email-kianzarandi701%40gmail.com-3a4a56?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianzarandi701@gmail.com)
 
-**Go gateways & realtime hubs · Flutter apps · Vue/Node products · defensive security labs.**
+**Rust load forges · Go gateways & realtime hubs · Flutter apps · Vue/Node products · defensive security labs.**
 
 [Portfolio](https://kianpk.github.io/kianPk/) · [Resume](./RESUME.md) · [Projects boards](https://github.com/users/kianPk/projects/1)
 
@@ -18,9 +18,21 @@
 
 ### About
 
-I ship backends and product UIs — **Go** services, **Flutter** clients, **Vue/Node** web apps, plus defensive security tooling and practical CLIs.
+I ship backends and product UIs — **Rust** systems, **Go** services, **Flutter** clients, **Vue/Node** web apps, plus defensive security tooling and practical CLIs.
 
 Based in Iran · open to freelance & product work
+
+---
+
+### Heavy · Rust
+
+| Project | Stack | Demo |
+|--------|--------|------|
+| [**loadforge**](https://github.com/kianPk/loadforge) | Rust · Tokio · Axum · WebSocket | [Dashboard](https://kianpk.github.io/loadforge/) — concurrent HTTP load forge + live latency stream |
+
+<p align="center">
+  <a href="https://github.com/kianPk/loadforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&theme=transparent&hide_border=true" alt="loadforge" /></a>
+</p>
 
 ---
 
@@ -87,6 +99,7 @@ npx deadlinks README.md
 
 | Demo | Link |
 |------|------|
+| Loadforge | https://kianpk.github.io/loadforge/ |
 | Gateproxy | https://kianpk.github.io/gateproxy/ |
 | Pulsehub | https://kianpk.github.io/pulsehub/ |
 | NoteCraft | https://kianpk.github.io/notecraft/ |
@@ -146,9 +159,9 @@ npx deadlinks README.md
 ### Stack
 
 ```text
-Go  ·  Flutter / Dart  ·  Vue 3  ·  Vite
-Node.js  ·  Express  ·  JWT  ·  Socket.IO  ·  Zod
-Rust  ·  Python  ·  Web Crypto  ·  Security labs
+Rust  ·  Tokio  ·  Axum  ·  Go  ·  Flutter / Dart
+Vue 3  ·  Vite  ·  Node.js  ·  Express  ·  JWT  ·  Socket.IO
+Python  ·  Web Crypto  ·  Security labs
 ```
 
 ---
@@ -156,16 +169,16 @@ Rust  ·  Python  ·  Web Crypto  ·  Security labs
 ### Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,discussions_started" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=360" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,discussions_started" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=360" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=kianPk&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=kianPk&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kianPk&bg_color=0d1117&color=3dffa8&line=5ec8ff&point=c45c26&area=true&hide_border=true&area_opacity=0.2" alt="Contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kianPk&bg_color=0d1117&color=e4572e&line=5ec8ff&point=3dffa8&area=true&hide_border=true&area_opacity=0.22" alt="Contribution graph" />
 </p>
 
 <p align="center">
@@ -173,6 +186,11 @@ Rust  ·  Python  ·  Web Crypto  ·  Security labs
 </p>
 
 <p align="center">
-  <a href="https://github.com/kianPk/pulsehub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=pulsehub&theme=dark&hide_border=true" alt="pulsehub" /></a>
-  <a href="https://github.com/kianPk/pulseboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=pulseboard&theme=dark&hide_border=true" alt="pulseboard" /></a>
+  <a href="https://github.com/kianPk/loadforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&theme=radical&hide_border=true" alt="loadforge" /></a>
+  <a href="https://github.com/kianPk/gateproxy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=gateproxy&theme=radical&hide_border=true" alt="gateproxy" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kianPk/pulsehub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=pulsehub&theme=radical&hide_border=true" alt="pulsehub" /></a>
+  <a href="https://github.com/kianPk/pulseboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=pulseboard&theme=radical&hide_border=true" alt="pulseboard" /></a>
 </p>
