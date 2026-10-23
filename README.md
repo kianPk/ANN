@@ -1,127 +1,64 @@
-<div align="center">
+## Hey 👋, I'm Kian Zarandi!
+<a href="mailto:kianzarandi701@gmail.com"><img align="left" alt="email" src="./assets/email.svg" height="18px"/></a>
+<a href="https://www.zyrax.ir"><img align="left" alt="website" src="./assets/web.svg" height="18px"/></a>
+<a href="https://github.com/kianPk"><img alt="github" src="https://cdn.simpleicons.org/github/162028" height="18px"/></a>
 
-<img src="./assets/banner.png" alt="Kian Zarandi" width="100%" />
 
-<img src="./assets/typing.png" alt="build carefully. ship publicly." width="420" />
-
-<br/><br/>
-
-[Portfolio](https://kianpk.github.io/kianPk/)
-&nbsp;·&nbsp;
-[VaultForge](https://kianpk.github.io/vaultforge/)
-&nbsp;·&nbsp;
-[LendGrid](https://kianpk.github.io/lendgrid/)
-&nbsp;·&nbsp;
-[GovStack](https://kianpk.github.io/govstack/)
-&nbsp;·&nbsp;
-[Loadforge](https://kianpk.github.io/loadforge/)
-&nbsp;·&nbsp;
-[Email](mailto:kianzarandi701@gmail.com)
-
-<br/><br/>
-
-Systems and product work — Solidity protocol labs, Rust services, Go gateways, Flutter and Vue clients.
-
-Iran · freelance & product · [zyrax.ir](https://www.zyrax.ir)
-
-</div>
-
----
-
-## Work
-
-| | | |
-|:--|:--|:--|
-| **Solidity** | [vaultforge](https://github.com/kianPk/vaultforge) · [lendgrid](https://github.com/kianPk/lendgrid) · [govstack](https://github.com/kianPk/govstack) | Vault, lending, DAO |
-| **Rust** | [loadforge](https://github.com/kianPk/loadforge) | Concurrent HTTP load forge |
-| **Go** | [gateproxy](https://github.com/kianPk/gateproxy) · [pulsehub](https://github.com/kianPk/pulsehub) | Gateway · realtime hub |
-| **Flutter** | [notecraft](https://github.com/kianPk/notecraft) · [pulseboard](https://github.com/kianPk/pulseboard) | Notes · ops dashboard |
-| **Vue / Node** | [forge-desk](https://github.com/kianPk/forge-desk) · [lumen-commerce](https://github.com/kianPk/lumen-commerce) | Product surfaces |
-| **Security** | [honeypot-deck](https://github.com/kianPk/honeypot-deck) · [sentinel-grid](https://github.com/kianPk/sentinel-grid) · [vaultguard](https://github.com/kianPk/vaultguard) | Defensive labs |
-
----
-
-## Solidity
-
-<div align="center">
-  <a href="https://github.com/kianPk/vaultforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=vaultforge&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" height="120" alt="vaultforge" /></a>
-  <a href="https://github.com/kianPk/lendgrid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=lendgrid&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" height="120" alt="lendgrid" /></a>
-  <a href="https://github.com/kianPk/govstack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=govstack&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" height="120" alt="govstack" /></a>
-</div>
-
-| Project | Focus | Demo |
-|:--------|:------|:-----|
-| [vaultforge](https://github.com/kianPk/vaultforge) | ERC-4626 · strategies · fees · caps · Foundry | [open](https://kianpk.github.io/vaultforge/) |
-| [lendgrid](https://github.com/kianPk/lendgrid) | Collateral · interest · HF · liquidations | [open](https://kianpk.github.io/lendgrid/) |
-| [govstack](https://github.com/kianPk/govstack) | Votes · Governor · Timelock · Treasury | [open](https://kianpk.github.io/govstack/) |
-
-```bash
-git clone https://github.com/kianPk/vaultforge && cd vaultforge && make install && make test
-```
-
----
-
-## Rust · Go · Flutter
-
-<div align="center">
-  <a href="https://github.com/kianPk/loadforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" height="120" alt="loadforge" /></a>
-  <a href="https://github.com/kianPk/gateproxy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=gateproxy&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" height="120" alt="gateproxy" /></a>
-</div>
-
-| Project | Stack | Demo |
-|:--------|:------|:-----|
-| [loadforge](https://github.com/kianPk/loadforge) | Rust · Tokio · Axum · WebSocket | [open](https://kianpk.github.io/loadforge/) |
-| [gateproxy](https://github.com/kianPk/gateproxy) | Go · JWT · rate limit · proxy | [open](https://kianpk.github.io/gateproxy/) |
-| [pulsehub](https://github.com/kianPk/pulsehub) | Go · WebSocket rooms | [open](https://kianpk.github.io/pulsehub/) |
-| [notecraft](https://github.com/kianPk/notecraft) | Flutter · local-first | [open](https://kianpk.github.io/notecraft/) |
-| [pulseboard](https://github.com/kianPk/pulseboard) | Flutter · ops UI | [open](https://kianpk.github.io/pulseboard/) |
-
----
-
-## CLIs
-
-| | | |
-|:--|:--|:--|
-| [portkill](https://github.com/kianPk/portkill) | Go | Free a busy TCP port |
-| [gitsum](https://github.com/kianPk/gitsum) | Rust | Repo summary |
-| [envdoctor](https://github.com/kianPk/envdoctor) | Python | `.env` vs example |
-| [tlsage](https://github.com/kianPk/tlsage) | Python | Cert days left |
-| [deadlinks](https://github.com/kianPk/deadlinks) | Node | Broken links |
-
----
-
-## Stats
-
-<div align="center">
-
-<img src="./assets/stats-deck.png" alt="Stats" width="100%" />
-
-<img src="./assets/stats-ribbon.png" alt="" width="100%" />
-
+I wear different hats depending on the project — **Solidity protocol labs** ⛓️, **Rust services** 🦀, **Go gateways** 🚪, **Flutter apps** 📱, and **Vue / Node** product surfaces 🌐. I like shipping live demos and keeping the stack practical.
+<br/>
 <br/>
 
-<img height="158" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=162028&icon_color=5A6B5C&text_color=3A444E&rank_icon=github" alt="GitHub stats" />
-<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=162028&text_color=3A444E&langs_count=8&hide=HTML,CSS" alt="Top languages" />
+<img align="right" alt="coder" src="./assets/coder.png" width="360px"/>
 
-<br/>
+### 🧐 More About Me:
 
-<img height="150" src="https://streak-stats.demolab.com/?user=kianPk&theme=default&hide_border=true&background=FFFFFF00&ring=5A6B5C&fire=5A6B5C&currStreakLabel=162028&sideLabels=6A7280&dates=9AA3AD" alt="Streak" />
+- 🔭 &nbsp; I’m currently building **VaultForge**, **LendGrid**, and **GovStack**
+- 🤝 &nbsp; Open to collaborate on [loadforge](https://github.com/kianPk/loadforge) and [gateproxy](https://github.com/kianPk/gateproxy)
+- 🌱 &nbsp; Deepening Solidity protocol work and Rust systems
+- 👨🏻‍💻 &nbsp; Most of my projects are on [GitHub](https://github.com/kianPk?tab=repositories)
+- 🎨 &nbsp; Live demos: [Portfolio](https://kianpk.github.io/kianPk/) · [VaultForge](https://kianpk.github.io/vaultforge/) · [Loadforge](https://kianpk.github.io/loadforge/)
+- 💬 &nbsp; Ask me about Solidity, Rust, Go, Flutter, or Vue
+- 📫 &nbsp; Reach me at [kianzarandi701@gmail.com](mailto:kianzarandi701@gmail.com)
+- 📝 &nbsp; Product & freelance · Iran · [zyrax.ir](https://www.zyrax.ir)
+- ⚡ &nbsp; Defensive security labs too — honeypot-deck, sentinel-grid, vaultguard
 
-<br/><br/>
+<br>
 
-<img src="https://ghchart.rshah.org/5a6b5c/kianPk" alt="Contributions" width="90%" />
+### 🔨 Languages and Tools:
 
-<br/><br/>
+<p>
+  <a href="https://soliditylang.org/"><img align="left" alt="Solidity" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/></a>
+  <a href="https://www.rust-lang.org/"><img align="left" alt="Rust" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"/></a>
+  <a href="https://go.dev/"><img align="left" alt="Go" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/></a>
+  <a href="https://flutter.dev/"><img align="left" alt="Flutter" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></a>
+  <a href="https://vuejs.org/"><img align="left" alt="Vue" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a>
+  <a href="https://nodejs.org/"><img align="left" alt="Node.js" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
+  <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
+  <a href="https://www.python.org/"><img align="left" alt="Python" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+  <a href="https://www.docker.com/"><img align="left" alt="Docker" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></a>
+  <a href="https://git-scm.com/"><img align="left" alt="Git" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
+  <a href="https://www.linux.org/"><img align="left" alt="Linux" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></a>
+  <a href="https://www.figma.com/"><img alt="Figma" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></a>
+</p>
 
-<a href="https://github.com/kianPk/vaultforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=vaultforge&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" alt="vaultforge" /></a>
-<a href="https://github.com/kianPk/loadforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" alt="loadforge" /></a>
+<br>
 
-</div>
+### 📊 Github Stats
 
----
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=162028&icon_color=5A6B5C&text_color=3A444E&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=162028&text_color=3A444E&langs_count=8&hide=HTML,CSS)
 
-<div align="center">
+<br>
 
-[Portfolio](https://kianpk.github.io/kianPk/) · [GitHub](https://github.com/kianPk) · [Email](mailto:kianzarandi701@gmail.com) · [zyrax.ir](https://www.zyrax.ir)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kianPk&theme=default&hide_border=true&background=FFFFFF00&ring=5A6B5C&fire=5A6B5C&currStreakLabel=162028&sideLabels=6A7280&dates=9AA3AD)
 
-</div>
+<br>
+
+### 🛠️ My Projects
+
+<a href="https://kianpk.github.io/vaultforge/"><img alt="vaultforge" src="./projects/vaultforge.svg" height="68" align="left"/></a>
+<a href="https://kianpk.github.io/lendgrid/"><img alt="lendgrid" src="./projects/lendgrid.svg" height="68" align="left"/></a>
+<a href="https://kianpk.github.io/govstack/"><img alt="govstack" src="./projects/govstack.svg" height="68" align="left"/></a>
+<a href="https://kianpk.github.io/loadforge/"><img alt="loadforge" src="./projects/loadforge.svg" height="68" align="left"/></a>
+<a href="https://kianpk.github.io/gateproxy/"><img alt="gateproxy" src="./projects/gateproxy.svg" height="68" align="left"/></a>
+<a href="https://kianpk.github.io/forge-desk/"><img alt="forge-desk" src="./projects/forge-desk.svg" height="68"/></a>

@@ -1,0 +1,9 @@
+<svg width="280" height="72" viewBox="0 0 280 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="280" height="72" rx="12" fill="#F4F6F8"/>
+  <rect width="10" height="72" rx="0" fill="#6A4C93"/>
+  <rect x="0" y="0" width="280" height="72" rx="12" stroke="#E2E6EA" fill="none"/>
+  <circle cx="42" cy="36" r="16" fill="#6A4C93"/>
+  <text x="42" y="41" text-anchor="middle" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">F</text>
+  <text x="70" y="32" fill="#12161C" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Forge Desk</text>
+  <text x="70" y="50" fill="#5A626C" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Vue workspace · issues · presence</text>
+</svg>
