@@ -2,11 +2,11 @@
 
 Best mix for stars / followers:
 
-1. **loadforge** — Rust HTTP load forge (Tokio · Axum · live WS dashboard)
-2. **gateproxy** — heavy Go API gateway
-3. **notecraft** — Flutter notes (web demo)
-4. **pulsehub** — Go WebSocket hub
-5. **pulseboard** — Flutter ops dashboard
-6. **honeypot-deck** or **forge-desk**
+1. **vaultforge** — Solidity ERC-4626 vault (Foundry)
+2. **lendgrid** — Solidity lending market + liquidations
+3. **govstack** — Solidity DAO (Governor + Timelock)
+4. **loadforge** — Rust HTTP load forge
+5. **gateproxy** — heavy Go API gateway
+6. **notecraft** or **pulsehub**
 
-Tip: post Loadforge + Gateproxy demos with GIFs on Reddit (r/rust, r/golang) and Dev.to.
+Tip: post VaultForge / LendGrid / GovStack with Foundry test GIFs on Reddit (r/ethdev, r/solidity) and Dev.to.
