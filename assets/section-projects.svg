@@ -1,0 +1,15 @@
+<svg width="900" height="64" viewBox="0 0 900 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="900" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#EEF2FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="64" rx="16" fill="url(#pbg)" stroke="#E2E8F0"/>
+  <rect x="0" y="0" width="8" height="64" fill="#1D4ED8"/>
+  <rect x="28" y="20" width="24" height="24" rx="6" fill="#1D4ED8" opacity="0.15"/>
+  <rect x="34" y="26" width="12" height="12" rx="2" fill="#1D4ED8"/>
+  <text x="62" y="28" fill="#0F172A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">My Projects</text>
+  <text x="62" y="48" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">flagships with live demos</text>
+  <text x="870" y="38" text-anchor="end" fill="#1D4ED8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">open →</text>
+</svg>

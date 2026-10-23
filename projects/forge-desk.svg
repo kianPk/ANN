@@ -1,15 +1,31 @@
-<svg width="300" height="76" viewBox="0 0 300 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="420" height="110" viewBox="0 0 420 110" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="g-forge-desk" x1="0" y1="0" x2="300" y2="76" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F8FAFC"/>
-      <stop offset="1" stop-color="#EEF2FF"/>
+    <linearGradient id="bg-forge-desk" x1="0" y1="0" x2="420" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F1F5F9"/>
     </linearGradient>
+    <linearGradient id="panel-forge-desk" x1="0" y1="0" x2="96" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D28D9"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <filter id="sh-forge-desk" x="-10%" y="-20%" width="130%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#0F172A" flood-opacity="0.10"/>
+    </filter>
   </defs>
-  <rect width="300" height="76" rx="14" fill="url(#g-forge-desk)" stroke="#E2E8F0"/>
-  <rect x="0" y="0" width="8" height="76" rx="14" fill="#7C3AED"/>
-  <rect x="0" y="0" width="8" height="76" fill="#7C3AED"/>
-  <circle cx="44" cy="38" r="18" fill="#7C3AED"/>
-  <text x="44" y="43" text-anchor="middle" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">F</text>
-  <text x="74" y="33" fill="#0F172A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Forge Desk</text>
-  <text x="74" y="52" fill="#64748B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Vue workspace · issues · presence</text>
+  <rect x="4" y="4" width="412" height="102" rx="18" fill="url(#bg-forge-desk)" stroke="#E2E8F0" filter="url(#sh-forge-desk)"/>
+  <path d="M4 22c0-9.94 8.06-18 18-18h60v102H22c-9.94 0-18-8.06-18-18V22z" fill="url(#panel-forge-desk)"/>
+  
+      <rect x="28" y="34" width="40" height="28" rx="5" fill="#C4B5FD" opacity="0.25"/>
+      <rect x="32" y="38" width="14" height="20" rx="3" fill="#fff"/>
+      <rect x="50" y="38" width="14" height="20" rx="3" fill="#fff" opacity="0.85"/>
+      <rect x="34" y="42" width="10" height="3" rx="1.5" fill="#6D28D9"/>
+      <rect x="52" y="42" width="10" height="3" rx="1.5" fill="#6D28D9"/>
+      <rect x="34" y="48" width="8" height="3" rx="1.5" fill="#6D28D9" opacity="0.5"/>
+    
+  <text x="112" y="40" fill="#0F172A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Forge Desk</text>
+  <text x="112" y="64" fill="#64748B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Workspace board · presence · filters</text>
+  <rect x="112" y="76" width="128" height="18" rx="9" fill="#6D28D9" opacity="0.12"/>
+  <text x="122" y="89" fill="#6D28D9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Vue · Node</text>
+  <rect x="330" y="78" width="70" height="18" rx="9" fill="#6D28D9"/>
+  <text x="365" y="91" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700">Live →</text>
 </svg>

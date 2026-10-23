@@ -45,20 +45,77 @@ I wear different hats depending on the project — **Solidity protocol labs** �
 
 ### 📊 Github Stats
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=transparent&hide_border=true&title_color=0F172A&icon_color=0D9488&text_color=334155&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=transparent&hide_border=true&title_color=0F172A&text_color=334155&langs_count=8&hide=HTML,CSS)
+<img src="./assets/section-stats.svg" alt="Github Stats" width="100%" />
 
-<br>
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kianPk&theme=default&hide_border=true&background=FFFFFF00&ring=0D9488&fire=0D9488&currStreakLabel=0F172A&sideLabels=64748B&dates=94A3B8)
+<div align="center">
 
-<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=transparent&hide_border=true&title_color=0F172A&icon_color=0D9488&text_color=334155&ring_color=0D9488&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=transparent&hide_border=true&title_color=0F172A&text_color=334155&bg_color=00000000&langs_count=8&hide=HTML,CSS" alt="Top languages" />
+</a>
+
+<br/><br/>
+
+<img height="160" src="https://streak-stats.demolab.com/?user=kianPk&theme=default&hide_border=true&background=FFFFFF00&ring=0D9488&fire=14B8A6&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0D9488&sideLabels=64748B&dates=94A3B8" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/0d9488/kianPk" alt="contribution graph" width="90%" />
+
+<br/><br/>
+
+<img src="./assets/stats-footer.svg" alt="" width="100%" />
+
+</div>
+
+<br/>
 
 ### 🛠️ My Projects
 
-<a href="https://kianpk.github.io/vaultforge/"><img alt="vaultforge" src="./projects/vaultforge.svg" height="72" align="left"/></a>
-<a href="https://kianpk.github.io/lendgrid/"><img alt="lendgrid" src="./projects/lendgrid.svg" height="72" align="left"/></a>
-<a href="https://kianpk.github.io/govstack/"><img alt="govstack" src="./projects/govstack.svg" height="72" align="left"/></a>
-<a href="https://kianpk.github.io/loadforge/"><img alt="loadforge" src="./projects/loadforge.svg" height="72" align="left"/></a>
-<a href="https://kianpk.github.io/gateproxy/"><img alt="gateproxy" src="./projects/gateproxy.svg" height="72" align="left"/></a>
-<a href="https://kianpk.github.io/forge-desk/"><img alt="forge-desk" src="./projects/forge-desk.svg" height="72"/></a>
+<img src="./assets/section-projects.svg" alt="My Projects" width="100%" />
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://kianpk.github.io/vaultforge/">
+        <img src="./projects/vaultforge.svg" alt="VaultForge" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://kianpk.github.io/lendgrid/">
+        <img src="./projects/lendgrid.svg" alt="LendGrid" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://kianpk.github.io/govstack/">
+        <img src="./projects/govstack.svg" alt="GovStack" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://kianpk.github.io/loadforge/">
+        <img src="./projects/loadforge.svg" alt="Loadforge" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://kianpk.github.io/gateproxy/">
+        <img src="./projects/gateproxy.svg" alt="Gateproxy" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://kianpk.github.io/forge-desk/">
+        <img src="./projects/forge-desk.svg" alt="Forge Desk" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>

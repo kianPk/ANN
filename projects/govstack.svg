@@ -1,15 +1,28 @@
-<svg width="300" height="76" viewBox="0 0 300 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="420" height="110" viewBox="0 0 420 110" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="g-govstack" x1="0" y1="0" x2="300" y2="76" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F8FAFC"/>
-      <stop offset="1" stop-color="#EEF2FF"/>
+    <linearGradient id="bg-govstack" x1="0" y1="0" x2="420" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F1F5F9"/>
     </linearGradient>
+    <linearGradient id="panel-govstack" x1="0" y1="0" x2="96" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B21B6"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="sh-govstack" x="-10%" y="-20%" width="130%" height="160%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#0F172A" flood-opacity="0.10"/>
+    </filter>
   </defs>
-  <rect width="300" height="76" rx="14" fill="url(#g-govstack)" stroke="#E2E8F0"/>
-  <rect x="0" y="0" width="8" height="76" rx="14" fill="#4338CA"/>
-  <rect x="0" y="0" width="8" height="76" fill="#4338CA"/>
-  <circle cx="44" cy="38" r="18" fill="#4338CA"/>
-  <text x="44" y="43" text-anchor="middle" fill="#fff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">G</text>
-  <text x="74" y="33" fill="#0F172A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">GovStack</text>
-  <text x="74" y="52" fill="#64748B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Governor · Timelock · Treasury</text>
+  <rect x="4" y="4" width="412" height="102" rx="18" fill="url(#bg-govstack)" stroke="#E2E8F0" filter="url(#sh-govstack)"/>
+  <path d="M4 22c0-9.94 8.06-18 18-18h60v102H22c-9.94 0-18-8.06-18-18V22z" fill="url(#panel-govstack)"/>
+  
+      <path d="M48 28l16 10v8c0 10-7 18-16 22-9-4-16-12-16-22v-8l16-10z" fill="#A78BFA" opacity="0.3"/>
+      <path d="M48 32l12 7.5v6c0 7.5-5.2 13.5-12 16.5-6.8-3-12-9-12-16.5v-6L48 32z" fill="#fff"/>
+      <path d="M48 40v12M43 46h10" stroke="#5B21B6" stroke-width="2.5" stroke-linecap="round"/>
+    
+  <text x="112" y="40" fill="#0F172A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">GovStack</text>
+  <text x="112" y="64" fill="#64748B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Governor · Timelock · Treasury votes</text>
+  <rect x="112" y="76" width="128" height="18" rx="9" fill="#5B21B6" opacity="0.12"/>
+  <text x="122" y="89" fill="#5B21B6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Solidity · DAO</text>
+  <rect x="330" y="78" width="70" height="18" rx="9" fill="#5B21B6"/>
+  <text x="365" y="91" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700">Live →</text>
 </svg>

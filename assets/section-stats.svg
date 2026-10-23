@@ -1,0 +1,15 @@
+<svg width="900" height="64" viewBox="0 0 900 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2="900" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#ECFEFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="64" rx="16" fill="url(#sbg)" stroke="#E2E8F0"/>
+  <rect x="0" y="0" width="8" height="64" fill="#0D9488"/>
+  <circle cx="40" cy="32" r="12" fill="#0D9488" opacity="0.15"/>
+  <circle cx="40" cy="32" r="6" fill="#0D9488"/>
+  <text x="62" y="28" fill="#0F172A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Github Stats</text>
+  <text x="62" y="48" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">public graph · languages · streak</text>
+  <text x="870" y="38" text-anchor="end" fill="#0D9488" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">kianPk</text>
+</svg>
