@@ -51,13 +51,8 @@ I wear different hats depending on the project â€” **Solidity protocol labs** â›
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=transparent&hide_border=true&title_color=0F172A&icon_color=0D9488&text_color=334155&ring_color=0D9488&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=transparent&hide_border=true&title_color=0F172A&text_color=334155&bg_color=00000000&langs_count=8&hide=HTML,CSS" alt="Top languages" />
-</a>
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F172A&icon_color=0D9488&text_color=334155&rank_icon=github" alt="GitHub stats" />
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=334155&langs_count=8&hide=HTML,CSS,C%23" alt="Top languages" />
 
 <br/><br/>
 
@@ -66,6 +61,11 @@ I wear different hats depending on the project â€” **Solidity protocol labs** â›
 <br/><br/>
 
 <img src="https://ghchart.rshah.org/0d9488/kianPk" alt="contribution graph" width="90%" />
+
+<br/><br/>
+
+<a href="https://github.com/kianPk/vaultforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=vaultforge&hide_border=true&bg_color=00000000&title_color=0F172A&icon_color=0D9488&text_color=334155" alt="vaultforge" /></a>
+<a href="https://github.com/kianPk/loadforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&hide_border=true&bg_color=00000000&title_color=0F172A&icon_color=0D9488&text_color=334155" alt="loadforge" /></a>
 
 <br/><br/>
 
