@@ -1,14 +1,14 @@
 ## Hey 👋, I'm Kian Zarandi!
 <a href="mailto:kianzarandi701@gmail.com"><img align="left" alt="email" src="./assets/email.svg" height="18px"/></a>
 <a href="https://www.zyrax.ir"><img align="left" alt="website" src="./assets/web.svg" height="18px"/></a>
-<a href="https://github.com/kianPk"><img alt="github" src="https://cdn.simpleicons.org/github/162028" height="18px"/></a>
+<a href="https://github.com/kianPk"><img alt="github" src="https://cdn.simpleicons.org/github/0F172A" height="18px"/></a>
 
 
 I wear different hats depending on the project — **Solidity protocol labs** ⛓️, **Rust services** 🦀, **Go gateways** 🚪, **Flutter apps** 📱, and **Vue / Node** product surfaces 🌐. I like shipping live demos and keeping the stack practical.
 <br/>
 <br/>
 
-<img align="right" alt="coder" src="./assets/coder.png" width="360px"/>
+<img align="right" alt="coder" src="./assets/coder.gif" width="360px"/>
 
 ### 🧐 More About Me:
 
@@ -45,20 +45,20 @@ I wear different hats depending on the project — **Solidity protocol labs** �
 
 ### 📊 Github Stats
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=162028&icon_color=5A6B5C&text_color=3A444E&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=162028&text_color=3A444E&langs_count=8&hide=HTML,CSS)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=transparent&hide_border=true&title_color=0F172A&icon_color=0D9488&text_color=334155&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=transparent&hide_border=true&title_color=0F172A&text_color=334155&langs_count=8&hide=HTML,CSS)
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kianPk&theme=default&hide_border=true&background=FFFFFF00&ring=5A6B5C&fire=5A6B5C&currStreakLabel=162028&sideLabels=6A7280&dates=9AA3AD)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kianPk&theme=default&hide_border=true&background=FFFFFF00&ring=0D9488&fire=0D9488&currStreakLabel=0F172A&sideLabels=64748B&dates=94A3B8)
 
 <br>
 
 ### 🛠️ My Projects
 
-<a href="https://kianpk.github.io/vaultforge/"><img alt="vaultforge" src="./projects/vaultforge.svg" height="68" align="left"/></a>
-<a href="https://kianpk.github.io/lendgrid/"><img alt="lendgrid" src="./projects/lendgrid.svg" height="68" align="left"/></a>
-<a href="https://kianpk.github.io/govstack/"><img alt="govstack" src="./projects/govstack.svg" height="68" align="left"/></a>
-<a href="https://kianpk.github.io/loadforge/"><img alt="loadforge" src="./projects/loadforge.svg" height="68" align="left"/></a>
-<a href="https://kianpk.github.io/gateproxy/"><img alt="gateproxy" src="./projects/gateproxy.svg" height="68" align="left"/></a>
-<a href="https://kianpk.github.io/forge-desk/"><img alt="forge-desk" src="./projects/forge-desk.svg" height="68"/></a>
+<a href="https://kianpk.github.io/vaultforge/"><img alt="vaultforge" src="./projects/vaultforge.svg" height="72" align="left"/></a>
+<a href="https://kianpk.github.io/lendgrid/"><img alt="lendgrid" src="./projects/lendgrid.svg" height="72" align="left"/></a>
+<a href="https://kianpk.github.io/govstack/"><img alt="govstack" src="./projects/govstack.svg" height="72" align="left"/></a>
+<a href="https://kianpk.github.io/loadforge/"><img alt="loadforge" src="./projects/loadforge.svg" height="72" align="left"/></a>
+<a href="https://kianpk.github.io/gateproxy/"><img alt="gateproxy" src="./projects/gateproxy.svg" height="72" align="left"/></a>
+<a href="https://kianpk.github.io/forge-desk/"><img alt="forge-desk" src="./projects/forge-desk.svg" height="72"/></a>
