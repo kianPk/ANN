@@ -187,13 +187,12 @@ npx deadlinks README.md
 
 <div align="center">
 
-| Systems | Product | Security |
-|:-------:|:-------:|:--------:|
-| [Loadforge](https://kianpk.github.io/loadforge/) | [Forge Desk](https://kianpk.github.io/forge-desk/) | [Honeypot](https://kianpk.github.io/honeypot-deck/) |
-| [Gateproxy](https://kianpk.github.io/gateproxy/) | [Lumen](https://kianpk.github.io/lumen-commerce/) | [Intel Radar](https://kianpk.github.io/intel-radar/) |
-| [Pulsehub](https://kianpk.github.io/pulsehub/) | [Arena](https://kianpk.github.io/velocity-arena/) | [Sentinel](https://kianpk.github.io/sentinel-grid/) |
-| [NoteCraft](https://kianpk.github.io/notecraft/) | [Auth](https://kianpk.github.io/vue-auth-panel/) | [Vaultguard](https://kianpk.github.io/vaultguard/) |
-| [Pulseboard](https://kianpk.github.io/pulseboard/) | [Shortlink](https://kianpk.github.io/shortlink/) | [Netprobe](https://kianpk.github.io/netprobe-lab/) |
+| Solidity | Systems | Security |
+|:--------:|:-------:|:--------:|
+| [VaultForge](https://kianpk.github.io/vaultforge/) | [Loadforge](https://kianpk.github.io/loadforge/) | [Honeypot](https://kianpk.github.io/honeypot-deck/) |
+| [LendGrid](https://kianpk.github.io/lendgrid/) | [Gateproxy](https://kianpk.github.io/gateproxy/) | [Intel Radar](https://kianpk.github.io/intel-radar/) |
+| [GovStack](https://kianpk.github.io/govstack/) | [Pulsehub](https://kianpk.github.io/pulsehub/) | [Sentinel](https://kianpk.github.io/sentinel-grid/) |
+| — | [NoteCraft](https://kianpk.github.io/notecraft/) | [Vaultguard](https://kianpk.github.io/vaultguard/) |
 
 [![Portfolio](https://img.shields.io/badge/Full_portfolio-kianpk.github.io%2FkianPk-0f1419?style=for-the-badge&logo=github&logoColor=e4572e)](https://kianpk.github.io/kianPk/)
 
@@ -219,54 +218,76 @@ npx deadlinks README.md
 
 <div align="center">
 
-<!-- stable cards: no include_all_commits (that endpoint errors), no dead trophy/graph hosts -->
+<img src="./assets/stats-deck.png" alt="3D Stats Deck — repos, stars, commits, streak" width="100%" />
 
-<a href="https://github.com/kianPk">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&icon_color=1F6F8B&text_color=E6EDF3&rank_icon=github" alt="GitHub stats" />
-</a>
-<a href="https://github.com/kianPk">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&text_color=E6EDF3&langs_count=8&card_width=340" alt="Top languages" />
-</a>
+<img src="./assets/stats-ribbon.png" alt="Telemetry online" width="100%" />
 
 <br/>
 
-<img height="160" src="https://streak-stats.demolab.com/?user=kianPk&theme=radical&hide_border=true&background=0F1419&ring=E4572E&fire=E4572E&currStreakLabel=E4572E&sideLabels=9AA8B5&dates=6A7785&stroke=E4572E33" alt="GitHub streak" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img width="100%" height="180" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=radical&hide_border=true&bg_color=070B12&title_color=E4572E&icon_color=10B981&text_color=E6EDF3&rank_icon=github&border_radius=12" alt="GitHub stats" />
+
+</td>
+<td width="50%" valign="top">
+
+<img width="100%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=radical&hide_border=true&bg_color=070B12&title_color=10B981&text_color=E6EDF3&langs_count=8&card_width=420&border_radius=12&hide=HTML,CSS" alt="Top languages" />
+
+</td>
+</tr>
+</table>
+
+<img width="85%" height="170" src="https://streak-stats.demolab.com/?user=kianPk&theme=radical&hide_border=true&background=070B12&ring=E4572E&fire=E4572E&currStreakLabel=E4572E&sideLabels=8B9BB0&dates=6A7785&stroke=10B98155&border_radius=12" alt="GitHub streak" />
 
 <br/><br/>
 
-**Contribution heat**
+### ▸ Heatmap
+
+<img src="https://ghchart.rshah.org/e4572e/kianPk" alt="Contribution heatmap" width="95%" />
+
+<br/><br/>
+
+### ▸ Depth cards
+
+<table>
+<tr>
+<td width="50%">
+<img width="100%" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kianPk&theme=radical" alt="Summary stats" />
+</td>
+<td width="50%">
+<img width="100%" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kianPk&theme=radical&utcOffset=3.5" alt="Productive hours Asia/Tehran" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img width="100%" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kianPk&theme=radical&hide=HTML,CSS" alt="Repos by language" />
+</td>
+<td width="50%">
+<img width="100%" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kianPk&theme=radical" alt="Commits by language" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://ghchart.rshah.org/e4572e/kianPk" alt="Contribution chart" width="100%" />
-
-<br/><br/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kianPk&theme=radical" alt="Summary stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kianPk&theme=radical&utcOffset=3.5" alt="Productive time" />
-
-<br/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kianPk&theme=radical&hide=HTML,CSS" alt="Repos per language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kianPk&theme=radical" alt="Most commit language" />
-
-<br/><br/>
-
-### Flagship pins
+### ▸ Flagship pins
 
 <a href="https://github.com/kianPk/vaultforge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=vaultforge&theme=radical&hide_border=true&bg_color=0F1419&title_color=10B981&icon_color=10B981&text_color=E6EDF3" alt="vaultforge" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=vaultforge&theme=radical&hide_border=true&bg_color=070B12&title_color=10B981&icon_color=10B981&text_color=E6EDF3&border_radius=12" alt="vaultforge" />
 </a>
 <a href="https://github.com/kianPk/lendgrid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=lendgrid&theme=radical&hide_border=true&bg_color=0F1419&title_color=10B981&icon_color=10B981&text_color=E6EDF3" alt="lendgrid" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=lendgrid&theme=radical&hide_border=true&bg_color=070B12&title_color=10B981&icon_color=10B981&text_color=E6EDF3&border_radius=12" alt="lendgrid" />
 </a>
 
 <br/>
 
 <a href="https://github.com/kianPk/govstack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=govstack&theme=radical&hide_border=true&bg_color=0F1419&title_color=10B981&icon_color=10B981&text_color=E6EDF3" alt="govstack" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=govstack&theme=radical&hide_border=true&bg_color=070B12&title_color=10B981&icon_color=10B981&text_color=E6EDF3&border_radius=12" alt="govstack" />
 </a>
 <a href="https://github.com/kianPk/loadforge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&theme=radical&hide_border=true&bg_color=0F1419&title_color=E4572E&icon_color=DEA584&text_color=E6EDF3" alt="loadforge" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&theme=radical&hide_border=true&bg_color=070B12&title_color=E4572E&icon_color=DEA584&text_color=E6EDF3&border_radius=12" alt="loadforge" />
 </a>
 
 </div>
