@@ -44,9 +44,9 @@ Iran · freelance & product · [zyrax.ir](https://www.zyrax.ir)
 ## Solidity
 
 <div align="center">
-  <a href="https://github.com/kianPk/vaultforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=vaultforge&theme=transparent&hide_border=true&title_color=162028&icon_color=B05C3A&text_color=3A444E" height="120" alt="vaultforge" /></a>
-  <a href="https://github.com/kianPk/lendgrid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=lendgrid&theme=transparent&hide_border=true&title_color=162028&icon_color=B05C3A&text_color=3A444E" height="120" alt="lendgrid" /></a>
-  <a href="https://github.com/kianPk/govstack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=govstack&theme=transparent&hide_border=true&title_color=162028&icon_color=B05C3A&text_color=3A444E" height="120" alt="govstack" /></a>
+  <a href="https://github.com/kianPk/vaultforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=vaultforge&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" height="120" alt="vaultforge" /></a>
+  <a href="https://github.com/kianPk/lendgrid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=lendgrid&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" height="120" alt="lendgrid" /></a>
+  <a href="https://github.com/kianPk/govstack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=govstack&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" height="120" alt="govstack" /></a>
 </div>
 
 | Project | Focus | Demo |
@@ -64,8 +64,8 @@ git clone https://github.com/kianPk/vaultforge && cd vaultforge && make install 
 ## Rust · Go · Flutter
 
 <div align="center">
-  <a href="https://github.com/kianPk/loadforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&theme=transparent&hide_border=true&title_color=162028&icon_color=B05C3A&text_color=3A444E" height="120" alt="loadforge" /></a>
-  <a href="https://github.com/kianPk/gateproxy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=gateproxy&theme=transparent&hide_border=true&title_color=162028&icon_color=B05C3A&text_color=3A444E" height="120" alt="gateproxy" /></a>
+  <a href="https://github.com/kianPk/loadforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" height="120" alt="loadforge" /></a>
+  <a href="https://github.com/kianPk/gateproxy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=gateproxy&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" height="120" alt="gateproxy" /></a>
 </div>
 
 | Project | Stack | Demo |
@@ -100,21 +100,21 @@ git clone https://github.com/kianPk/vaultforge && cd vaultforge && make install 
 
 <br/>
 
-<img height="158" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=162028&icon_color=B05C3A&text_color=3A444E&rank_icon=github" alt="GitHub stats" />
+<img height="158" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=162028&icon_color=5A6B5C&text_color=3A444E&rank_icon=github" alt="GitHub stats" />
 <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=162028&text_color=3A444E&langs_count=8&hide=HTML,CSS" alt="Top languages" />
 
 <br/>
 
-<img height="150" src="https://streak-stats.demolab.com/?user=kianPk&theme=default&hide_border=true&background=FFFFFF00&ring=B05C3A&fire=B05C3A&currStreakLabel=162028&sideLabels=6A7280&dates=9AA3AD" alt="Streak" />
+<img height="150" src="https://streak-stats.demolab.com/?user=kianPk&theme=default&hide_border=true&background=FFFFFF00&ring=5A6B5C&fire=5A6B5C&currStreakLabel=162028&sideLabels=6A7280&dates=9AA3AD" alt="Streak" />
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/b05c3a/kianPk" alt="Contributions" width="90%" />
+<img src="https://ghchart.rshah.org/5a6b5c/kianPk" alt="Contributions" width="90%" />
 
 <br/><br/>
 
-<a href="https://github.com/kianPk/vaultforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=vaultforge&theme=transparent&hide_border=true&title_color=162028&icon_color=B05C3A&text_color=3A444E" alt="vaultforge" /></a>
-<a href="https://github.com/kianPk/loadforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&theme=transparent&hide_border=true&title_color=162028&icon_color=B05C3A&text_color=3A444E" alt="loadforge" /></a>
+<a href="https://github.com/kianPk/vaultforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=vaultforge&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" alt="vaultforge" /></a>
+<a href="https://github.com/kianPk/loadforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&theme=transparent&hide_border=true&title_color=162028&icon_color=5A6B5C&text_color=3A444E" alt="loadforge" /></a>
 
 </div>
 
