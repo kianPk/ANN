@@ -12,11 +12,11 @@ I wear different hats depending on the project — **Solidity protocol labs**, *
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently building **VaultForge**, **LendGrid**, and **GovStack**
-- 🤝 &nbsp; Open to collaborate on [loadforge](https://github.com/kianPk/loadforge) and [gateproxy](https://github.com/kianPk/gateproxy)
+- 🔭 &nbsp; I’m currently building **TradeForge**, **VaultForge**, and **LendGrid**
+- 🤝 &nbsp; Open to collaborate on [tradeforge](https://github.com/kianPk/tradeforge) and [loadforge](https://github.com/kianPk/loadforge)
 - 🌱 &nbsp; Deepening Solidity protocol work and Rust systems
 - 👨🏻‍💻 &nbsp; Most of my projects are on [GitHub](https://github.com/kianPk?tab=repositories)
-- 🎨 &nbsp; Live demos: [Portfolio](https://kianpk.github.io/kianPk/) · [VaultForge](https://kianpk.github.io/vaultforge/) · [Loadforge](https://kianpk.github.io/loadforge/)
+- 🎨 &nbsp; Live demos: [Portfolio](https://kianpk.github.io/kianPk/) · [TradeForge](https://kianpk.github.io/tradeforge/) · [VaultForge](https://kianpk.github.io/vaultforge/)
 - 💬 &nbsp; Ask me about Solidity, Rust, Go, Flutter, or Vue
 - 📫 &nbsp; Reach me at [kianzarandi701@gmail.com](mailto:kianzarandi701@gmail.com)
 - 📝 &nbsp; Product & freelance · Iran · [zyrax.ir](https://www.zyrax.ir)
@@ -81,37 +81,37 @@ I wear different hats depending on the project — **Solidity protocol labs**, *
 <table>
   <tr>
     <td width="50%">
+      <a href="https://kianpk.github.io/tradeforge/">
+        <img src="./projects/tradeforge.png" alt="TradeForge" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
       <a href="https://kianpk.github.io/vaultforge/">
         <img src="./projects/vaultforge.png" alt="VaultForge" width="100%" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <a href="https://kianpk.github.io/lendgrid/">
         <img src="./projects/lendgrid.png" alt="LendGrid" width="100%" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <a href="https://kianpk.github.io/govstack/">
         <img src="./projects/govstack.png" alt="GovStack" width="100%" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <a href="https://kianpk.github.io/loadforge/">
         <img src="./projects/loadforge.png" alt="Loadforge" width="100%" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <a href="https://kianpk.github.io/gateproxy/">
         <img src="./projects/gateproxy.png" alt="Gateproxy" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://kianpk.github.io/forge-desk/">
-        <img src="./projects/forge-desk.png" alt="Forge Desk" width="100%" />
       </a>
     </td>
   </tr>
