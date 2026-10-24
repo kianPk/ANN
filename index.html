@@ -11,16 +11,16 @@
   <link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=Vazirmatn:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --bg-0: #e8eef2;
-      --bg-1: #d5e0e8;
-      --ink: #0f1a22;
-      --ink-soft: #3a4a56;
-      --muted: #5c6d7a;
-      --line: rgba(15, 26, 34, 0.12);
-      --accent: #5a6b5c;
-      --accent-deep: #3f4f42;
-      --glow: rgba(90, 107, 92, 0.18);
-      --slag: #1f6f8b;
+      --bg-0: #0b101c;
+      --bg-1: #111827;
+      --ink: #e2e8f0;
+      --ink-soft: #cbd5e1;
+      --muted: #94a3b8;
+      --line: rgba(148, 163, 184, 0.16);
+      --accent: #22d3ee;
+      --accent-deep: #2dd4bf;
+      --glow: rgba(34, 211, 238, 0.18);
+      --slag: #60a5fa;
       --mono: "JetBrains Mono", ui-monospace, monospace;
       --display: "Syne", "Vazirmatn", system-ui, sans-serif;
       --body: "Vazirmatn", system-ui, sans-serif;
@@ -33,10 +33,10 @@
       font-family: var(--body);
       color: var(--ink);
       background:
-        radial-gradient(1200px 600px at 10% -10%, rgba(90, 107, 92, 0.16), transparent 55%),
-        radial-gradient(900px 500px at 95% 5%, rgba(31, 111, 139, 0.18), transparent 50%),
-        radial-gradient(700px 380px at 50% 110%, rgba(90, 107, 92, 0.08), transparent 55%),
-        linear-gradient(165deg, var(--bg-0), var(--bg-1) 55%, #cfd9e2);
+        radial-gradient(1200px 600px at 10% -10%, rgba(34, 211, 238, 0.14), transparent 55%),
+        radial-gradient(900px 500px at 95% 5%, rgba(96, 165, 250, 0.16), transparent 50%),
+        radial-gradient(700px 380px at 50% 110%, rgba(45, 212, 191, 0.1), transparent 55%),
+        linear-gradient(165deg, var(--bg-0), var(--bg-1) 55%, #0a0f1a);
       min-height: 100vh;
       line-height: 1.65;
       overflow-x: hidden;
@@ -267,12 +267,37 @@
 
     .reveal {
       opacity: 0;
-      transform: translateY(24px);
-      transition: opacity 0.7s ease, transform 0.7s ease;
+      transform: translateY(48px) rotateX(8deg) scale(0.98);
+      transform-origin: center top;
+      transition:
+        opacity 0.85s cubic-bezier(0.22, 1, 0.36, 1),
+        transform 0.85s cubic-bezier(0.22, 1, 0.36, 1);
+      perspective: 900px;
     }
     .reveal.in {
       opacity: 1;
-      transform: translateY(0);
+      transform: translateY(0) rotateX(0) scale(1);
+    }
+    .reveal.in .project,
+    .reveal.in .skill-band,
+    .reveal.in .meta-list li {
+      animation: riseIn 0.7s ease both;
+    }
+    .reveal.in .project:nth-child(1) { animation-delay: 0.05s; }
+    .reveal.in .project:nth-child(2) { animation-delay: 0.12s; }
+    .reveal.in .project:nth-child(3) { animation-delay: 0.19s; }
+    .reveal.in .project:nth-child(4) { animation-delay: 0.26s; }
+    .reveal.in .project:nth-child(5) { animation-delay: 0.33s; }
+    .reveal.in .project:nth-child(6) { animation-delay: 0.4s; }
+
+    .project {
+      transform-style: preserve-3d;
+      transition: transform 0.35s ease, border-color 0.25s, background 0.25s, box-shadow 0.35s;
+    }
+    .project:hover {
+      transform: translateY(-6px) rotateX(2deg) rotateY(-2deg);
+      box-shadow: 0 18px 40px rgba(34, 211, 238, 0.12);
+      border-color: rgba(34, 211, 238, 0.35);
     }
 
     .about-grid {

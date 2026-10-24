@@ -1,15 +1,15 @@
-<svg width="900" height="64" viewBox="0 0 900 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1100" height="72" viewBox="0 0 1100 72" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="pbg" x1="0" y1="0" x2="900" y2="64" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F8FAFC"/>
-      <stop offset="1" stop-color="#EEF2FF"/>
+    <linearGradient id="g-section-projects.svg" x1="0" y1="0" x2="1100" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B101C"/>
+      <stop offset="1" stop-color="#111827"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="64" rx="16" fill="url(#pbg)" stroke="#E2E8F0"/>
-  <rect x="0" y="0" width="8" height="64" fill="#1D4ED8"/>
-  <rect x="28" y="20" width="24" height="24" rx="6" fill="#1D4ED8" opacity="0.15"/>
-  <rect x="34" y="26" width="12" height="12" rx="2" fill="#1D4ED8"/>
-  <text x="62" y="28" fill="#0F172A" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">My Projects</text>
-  <text x="62" y="48" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">flagships with live demos</text>
-  <text x="870" y="38" text-anchor="end" fill="#1D4ED8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">open →</text>
+  <rect width="1100" height="72" rx="18" fill="url(#g-section-projects.svg)" stroke="#1F2937"/>
+  <rect x="0" y="0" width="10" height="72" fill="#60A5FA"/>
+  <circle cx="44" cy="36" r="10" fill="#60A5FA" opacity="0.2"/>
+  <circle cx="44" cy="36" r="5" fill="#60A5FA"/>
+  <text x="68" y="30" fill="#E2E8F0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">My Projects</text>
+  <text x="68" y="52" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">flagships with live demos</text>
+  <text x="1060" y="42" text-anchor="end" fill="#60A5FA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">kianPk</text>
 </svg>

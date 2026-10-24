@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Kian Zarandi!
 <a href="mailto:kianzarandi701@gmail.com"><img align="left" alt="email" src="./assets/email.svg" height="18px"/></a>
 <a href="https://www.zyrax.ir"><img align="left" alt="website" src="./assets/web.svg" height="18px"/></a>
-<a href="https://github.com/kianPk"><img alt="github" src="https://cdn.simpleicons.org/github/0F172A" height="18px"/></a>
+<a href="https://github.com/kianPk"><img alt="github" src="https://cdn.simpleicons.org/github/E2E8F0" height="18px"/></a>
 
 
-I wear different hats depending on the project — **Solidity protocol labs** ⛓️, **Rust services** 🦀, **Go gateways** 🚪, **Flutter apps** 📱, and **Vue / Node** product surfaces 🌐. I like shipping live demos and keeping the stack practical.
+I wear different hats depending on the project — **Solidity protocol labs**, **Rust services**, **Go gateways**, **Flutter apps**, and **Vue / Node** product surfaces. I ship live demos and keep the stack practical.
 <br/>
 <br/>
 
@@ -20,7 +20,7 @@ I wear different hats depending on the project — **Solidity protocol labs** �
 - 💬 &nbsp; Ask me about Solidity, Rust, Go, Flutter, or Vue
 - 📫 &nbsp; Reach me at [kianzarandi701@gmail.com](mailto:kianzarandi701@gmail.com)
 - 📝 &nbsp; Product & freelance · Iran · [zyrax.ir](https://www.zyrax.ir)
-- ⚡ &nbsp; Defensive security labs too — honeypot-deck, sentinel-grid, vaultguard
+- ⚡ &nbsp; Defensive security labs — honeypot-deck, sentinel-grid, vaultguard
 
 <br>
 
@@ -50,26 +50,23 @@ I wear different hats depending on the project — **Solidity protocol labs** �
 <br/>
 
 <div align="center">
+  <img src="./assets/stats-3d.gif" alt="3D Stats deck" width="100%" />
+</div>
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F172A&icon_color=0D9488&text_color=334155&rank_icon=github" alt="GitHub stats" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&hide_border=true&bg_color=00000000&title_color=0F172A&text_color=334155&langs_count=8&hide=HTML,CSS,C%23" alt="Top languages" />
+<br/>
 
-<br/><br/>
+<div align="center">
 
-<img height="160" src="https://streak-stats.demolab.com/?user=kianPk&theme=default&hide_border=true&background=FFFFFF00&ring=0D9488&fire=14B8A6&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0D9488&sideLabels=64748B&dates=94A3B8" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/0d9488/kianPk" alt="contribution graph" width="90%" />
+<img height="158" src="https://github-readme-stats.vercel.app/api?username=kianPk&show_icons=true&hide_border=true&bg_color=0B101C&title_color=E2E8F0&icon_color=22D3EE&text_color=94A3B8&rank_icon=github" alt="GitHub stats" />
+<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianPk&layout=compact&hide_border=true&bg_color=0B101C&title_color=E2E8F0&text_color=94A3B8&langs_count=8&hide=HTML,CSS,C%23" alt="Top languages" />
 
 <br/><br/>
 
-<a href="https://github.com/kianPk/vaultforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=vaultforge&hide_border=true&bg_color=00000000&title_color=0F172A&icon_color=0D9488&text_color=334155" alt="vaultforge" /></a>
-<a href="https://github.com/kianPk/loadforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kianPk&repo=loadforge&hide_border=true&bg_color=00000000&title_color=0F172A&icon_color=0D9488&text_color=334155" alt="loadforge" /></a>
+<img height="150" src="https://streak-stats.demolab.com/?user=kianPk&theme=dark&hide_border=true&background=0B101C&ring=22D3EE&fire=2DD4BF&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="./assets/stats-footer.svg" alt="" width="100%" />
+<img src="https://ghchart.rshah.org/22d3ee/kianPk" alt="contribution graph" width="90%" />
 
 </div>
 
@@ -85,36 +82,36 @@ I wear different hats depending on the project — **Solidity protocol labs** �
   <tr>
     <td width="50%">
       <a href="https://kianpk.github.io/vaultforge/">
-        <img src="./projects/vaultforge.svg" alt="VaultForge" width="100%" />
+        <img src="./projects/vaultforge.png" alt="VaultForge" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://kianpk.github.io/lendgrid/">
-        <img src="./projects/lendgrid.svg" alt="LendGrid" width="100%" />
+        <img src="./projects/lendgrid.png" alt="LendGrid" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://kianpk.github.io/govstack/">
-        <img src="./projects/govstack.svg" alt="GovStack" width="100%" />
+        <img src="./projects/govstack.png" alt="GovStack" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://kianpk.github.io/loadforge/">
-        <img src="./projects/loadforge.svg" alt="Loadforge" width="100%" />
+        <img src="./projects/loadforge.png" alt="Loadforge" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://kianpk.github.io/gateproxy/">
-        <img src="./projects/gateproxy.svg" alt="Gateproxy" width="100%" />
+        <img src="./projects/gateproxy.png" alt="Gateproxy" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://kianpk.github.io/forge-desk/">
-        <img src="./projects/forge-desk.svg" alt="Forge Desk" width="100%" />
+        <img src="./projects/forge-desk.png" alt="Forge Desk" width="100%" />
       </a>
     </td>
   </tr>
