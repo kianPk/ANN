@@ -290,16 +290,6 @@
     .reveal.in .project:nth-child(5) { animation-delay: 0.33s; }
     .reveal.in .project:nth-child(6) { animation-delay: 0.4s; }
 
-    .project {
-      transform-style: preserve-3d;
-      transition: transform 0.35s ease, border-color 0.25s, background 0.25s, box-shadow 0.35s;
-    }
-    .project:hover {
-      transform: translateY(-6px) rotateX(2deg) rotateY(-2deg);
-      box-shadow: 0 18px 40px rgba(34, 211, 238, 0.12);
-      border-color: rgba(34, 211, 238, 0.35);
-    }
-
     .about-grid {
       display: grid;
       gap: 2rem;
@@ -359,12 +349,15 @@
       border-top: 1px solid var(--line);
       text-decoration: none;
       color: inherit;
-      transition: background 0.25s, padding 0.25s;
+      transform-style: preserve-3d;
+      transition: background 0.25s, padding 0.25s, transform 0.35s ease, box-shadow 0.35s;
     }
     .project:last-child { border-bottom: 1px solid var(--line); }
     .project:hover {
       background: var(--glow);
       padding-inline: 0.75rem;
+      transform: translateY(-4px);
+      box-shadow: 0 16px 36px rgba(34, 211, 238, 0.1);
     }
     .project-tag {
       font-family: var(--mono);
