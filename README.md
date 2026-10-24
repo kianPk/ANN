@@ -2,6 +2,7 @@
 <a href="mailto:kianzarandi701@gmail.com"><img align="left" alt="email" src="./assets/email.svg" height="18px"/></a>
 <a href="https://www.zyrax.ir"><img align="left" alt="website" src="./assets/web.svg" height="18px"/></a>
 <a href="https://github.com/kianPk"><img alt="github" src="https://cdn.simpleicons.org/github/E2E8F0" height="18px"/></a>
+<a href="https://t.me/Kian_asli"><img alt="telegram" src="https://cdn.simpleicons.org/telegram/22D3EE" height="18px"/></a>
 
 
 I wear different hats depending on the project — **Solidity protocol labs**, **Rust services**, **Go gateways**, **Flutter apps**, and **Vue / Node** product surfaces. I ship live demos and keep the stack practical.
@@ -18,7 +19,7 @@ I wear different hats depending on the project — **Solidity protocol labs**, *
 - 👨🏻‍💻 &nbsp; Most of my projects are on [GitHub](https://github.com/kianPk?tab=repositories)
 - 🎨 &nbsp; Live demos: [Orbit Desk](https://kianpk.github.io/orbit-desk/) · [Playfield](https://kianpk.github.io/playfield/) · [TradeForge](https://kianpk.github.io/tradeforge/)
 - 💬 &nbsp; Ask me about Solidity, Rust, Go, Flutter, or Vue
-- 📫 &nbsp; Reach me at [kianzarandi701@gmail.com](mailto:kianzarandi701@gmail.com)
+- 📫 &nbsp; Reach me at [kianzarandi701@gmail.com](mailto:kianzarandi701@gmail.com) · Telegram [@Kian_asli](https://t.me/Kian_asli)
 - 📝 &nbsp; Product & freelance · Iran · [zyrax.ir](https://www.zyrax.ir)
 - ⚡ &nbsp; Defensive security labs — honeypot-deck, sentinel-grid, vaultguard
 
